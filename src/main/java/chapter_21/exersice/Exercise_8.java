@@ -1,7 +1,6 @@
-package chapter_21;
+package chapter_21.exersice;
 
 
-import java.text.SimpleDateFormat;
 import java.util.concurrent.TimeUnit;
 
 /**
