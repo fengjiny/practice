@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="fe49db3d-064b-47c2-be25-7a6240d32d63" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
+=======
+    <list default="true" id="d1fd421e-00be-4574-9c0c-70bb4fb3d062" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/practice.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chapter_21/example/OrnamentalGarden.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chapter_21/other/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chapter_21/other/Test3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chapter_21/other/TestAccumulator.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter_21/Exercise_1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter_21/Exercise_2.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter_21/Exercise_3.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter_21/Exercise_4.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter_21/Exercise_5.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter_21/Exercise_6.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter_21/Exercise_7.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter_21/Exercise_8.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter_21/Exercise_9.java" afterPath="" />
+    </list>
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,6 +37,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="Exercise_1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -22,10 +47,19 @@
                 <element signature="e#225#226#0" expanded="true" />
                 <element signature="e#279#280#0" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="Exercise_6.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/exersice/Exercise_6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Exercise_2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -36,20 +70,37 @@
                 <element signature="e#336#337#0" expanded="true" />
                 <element signature="e#362#363#0" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="Exercise_7.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/exersice/Exercise_7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+              <folding />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Exercise_3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
               <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+=======
+      <file leaf-file-name="Exercise_8.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/exersice/Exercise_8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Exercise_4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_4.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,11 +108,32 @@
               <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+=======
+      <file leaf-file-name="OrnamentalGarden.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/example/OrnamentalGarden.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1130#1131#0" expanded="true" />
+                <element signature="e#1158#1159#0" expanded="true" />
+                <element signature="e#1307#1317#0" expanded="true" />
+                <element signature="e#1465#1466#0" expanded="true" />
+                <element signature="e#1496#1497#0" expanded="true" />
+                <element signature="e#2053#2054#0" expanded="true" />
+                <element signature="e#2082#2083#0" expanded="true" />
+                <element signature="e#2113#2114#0" expanded="true" />
+                <element signature="e#2172#2173#0" expanded="true" />
+                <element signature="e#2212#2213#0" expanded="true" />
+                <element signature="e#2248#2249#0" expanded="true" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Exercise_5.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_5.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,11 +144,21 @@
                 <element signature="e#407#408#0" expanded="true" />
                 <element signature="e#433#434#0" expanded="true" />
                 <element signature="e#1062#1078#0" expanded="true" />
+=======
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/other/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Exercise_6.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_6.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,21 +168,52 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#350#351#0" expanded="true" />
                 <element signature="e#392#393#0" expanded="true" />
+=======
+      <file leaf-file-name="TestAccumulator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/other/TestAccumulator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#785#786#0" expanded="true" />
+                <element signature="e#858#859#0" expanded="true" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Exercise_7.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_7.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="464">
               <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
               <folding />
+=======
+      <file leaf-file-name="Test3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/other/Test3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#543#768#0" expanded="true" />
+                <element signature="e#767#768#0" expanded="true" />
+              </folding>
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Exercise_9.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_9.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,10 +228,19 @@
                 <element signature="e#1757#1758#0" expanded="true" />
                 <element signature="e#1797#1798#0" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="CountDownLatch.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="218" column="32" lean-forward="true" selection-start-line="218" selection-start-column="32" selection-end-line="218" selection-end-column="32" />
+              <folding />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Exercise_8.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_8.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,11 +250,21 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#691#692#0" expanded="true" />
                 <element signature="e#755#756#0" expanded="true" />
+=======
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="true">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="281" column="30" lean-forward="false" selection-start-line="281" selection-start-column="30" selection-end-line="281" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#79046#0" expanded="true" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -141,6 +273,16 @@
               <folding>
                 <element signature="e#43969#43970#0" expanded="true" />
                 <element signature="e#43996#43997#0" expanded="true" />
+=======
+      <file leaf-file-name="AtomicInteger.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="89" column="21" lean-forward="false" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+              <folding>
+                <element signature="e#2032#2033#0" expanded="true" />
+                <element signature="e#2060#2061#0" expanded="true" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
               </folding>
             </state>
           </provider>
@@ -166,6 +308,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/chapter_21/practice_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter_21/exercise_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter_21/Exercise_1.java" />
@@ -177,6 +320,16 @@
         <option value="$PROJECT_DIR$/src/main/java/chapter_21/Exercise_7.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter_21/Exercise_8.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter_21/Exercise_9.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/chapter_21/Exercise_8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter_21/exersice/Exercise_8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Print.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter_21/example/OrnamentalGarden.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter_21/other/Accumulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter_21/other/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter_21/other/TestAccumulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter_21/other/Test3.java" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
       </list>
     </option>
   </component>
@@ -186,6 +339,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -250,6 +404,17 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="40" />
+    <option name="y" value="23" />
+    <option name="width" value="1400" />
+    <option name="height" value="828" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -265,7 +430,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,25 +469,66 @@
             </path>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+=======
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_21" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_21" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="OrnamentalGarden.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_21" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+=======
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+=======
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -333,7 +542,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Exercise_9">
+=======
+  <component name="RunManager" selected="Application.Test3">
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -341,6 +554,7 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Exercise_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -349,6 +563,16 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="chapter_21.Exercise_6" />
+=======
+    <configuration name="Accumulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="chapter_21.other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="chapter_21.other.Accumulator" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -360,6 +584,7 @@
       <module name="practice" />
       <envs />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Exercise_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -368,6 +593,16 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="chapter_21.Exercise_7" />
+=======
+    <configuration name="OrnamentalGarden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="chapter_21.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="chapter_21.example.OrnamentalGarden" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -379,6 +614,7 @@
       <module name="practice" />
       <envs />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Exercise_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -387,6 +623,16 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="chapter_21.Exercise_8" />
+=======
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="chapter_21.other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="chapter_21.other.Test" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -398,6 +644,7 @@
       <module name="practice" />
       <envs />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Exercise_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -406,6 +653,16 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="chapter_21.Exercise_9" />
+=======
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="chapter_21.other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="chapter_21.other.Test3" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -417,6 +674,7 @@
       <module name="practice" />
       <envs />
     </configuration>
+<<<<<<< HEAD
     <configuration name="SimpleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -425,6 +683,16 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="chapter_21.SimpleThread" />
+=======
+    <configuration name="TestAccumulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="chapter_21.other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="chapter_21.other.TestAccumulator" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -511,6 +779,7 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
+<<<<<<< HEAD
       <item index="0" class="java.lang.String" itemvalue="Application.Exercise_6" />
       <item index="1" class="java.lang.String" itemvalue="Application.Exercise_7" />
       <item index="2" class="java.lang.String" itemvalue="Application.SimpleThread" />
@@ -524,6 +793,21 @@
         <item index="2" class="java.lang.String" itemvalue="Application.SimpleThread" />
         <item index="3" class="java.lang.String" itemvalue="Application.Exercise_7" />
         <item index="4" class="java.lang.String" itemvalue="Application.Exercise_6" />
+=======
+      <item index="0" class="java.lang.String" itemvalue="Application.OrnamentalGarden" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Accumulator" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestAccumulator" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test3" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Test3" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestAccumulator" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Accumulator" />
+        <item index="4" class="java.lang.String" itemvalue="Application.OrnamentalGarden" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
       </list>
     </recent_temporary>
   </component>
@@ -535,29 +819,50 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="fe49db3d-064b-47c2-be25-7a6240d32d63" name="Default" comment="" />
       <created>1524800546676</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524800546676</updated>
       <workItem from="1524800548542" duration="16024000" />
+=======
+      <changelist id="d1fd421e-00be-4574-9c0c-70bb4fb3d062" name="Default" comment="" />
+      <created>1524842596008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524842596008</updated>
+      <workItem from="1524842598925" duration="9311000" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="16024000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="115" y="23" width="1393" height="973" extended-state="1" />
+=======
+    <option name="totallyTimeSpent" value="9311000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="40" y="23" width="1400" height="828" extended-state="0" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291874" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2643275" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -565,6 +870,15 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12213176" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34366196" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -591,22 +905,37 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/exersice/Exercise_9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-229">
           <caret line="70" column="13" lean-forward="false" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/exersice/Exercise_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -622,20 +951,93 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/exersice/Exercise_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/exersice/Exercise_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/exersice/Exercise_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/exersice/Exercise_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/exersice/Exercise_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/exersice/Exercise_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/exersice/Exercise_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Print.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="true" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="447" column="18" lean-forward="false" selection-start-line="447" selection-start-column="18" selection-end-line="447" selection-end-column="18" />
+          <folding>
+            <element signature="e#17088#17089#0" expanded="false" />
+            <element signature="e#17123#17124#0" expanded="false" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="444">
@@ -644,10 +1046,19 @@
             <element signature="imports" expanded="true" />
             <element signature="e#336#337#0" expanded="true" />
             <element signature="e#362#363#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/other/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
@@ -657,10 +1068,30 @@
             <element signature="e#407#408#0" expanded="true" />
             <element signature="e#433#434#0" expanded="true" />
             <element signature="e#1062#1078#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/example/OrnamentalGarden.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1130#1131#0" expanded="true" />
+            <element signature="e#1158#1159#0" expanded="true" />
+            <element signature="e#1307#1317#0" expanded="true" />
+            <element signature="e#1465#1466#0" expanded="true" />
+            <element signature="e#1496#1497#0" expanded="true" />
+            <element signature="e#2053#2054#0" expanded="true" />
+            <element signature="e#2082#2083#0" expanded="true" />
+            <element signature="e#2113#2114#0" expanded="true" />
+            <element signature="e#2172#2173#0" expanded="true" />
+            <element signature="e#2212#2213#0" expanded="true" />
+            <element signature="e#2248#2249#0" expanded="true" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -668,10 +1099,27 @@
           <folding>
             <element signature="e#43969#43970#0" expanded="true" />
             <element signature="e#43996#43997#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/other/TestAccumulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -680,10 +1128,20 @@
             <element signature="imports" expanded="true" />
             <element signature="e#350#351#0" expanded="true" />
             <element signature="e#392#393#0" expanded="true" />
+=======
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="89" column="21" lean-forward="false" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+          <folding>
+            <element signature="e#2032#2033#0" expanded="true" />
+            <element signature="e#2060#2061#0" expanded="true" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -692,18 +1150,36 @@
             <element signature="imports" expanded="true" />
             <element signature="e#691#692#0" expanded="true" />
             <element signature="e#755#756#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/other/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#543#768#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
           <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+=======
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="218" column="32" lean-forward="true" selection-start-line="218" selection-start-column="32" selection-end-line="218" selection-end-column="32" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/Exercise_9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -716,6 +1192,14 @@
             <element signature="e#1204#1205#0" expanded="true" />
             <element signature="e#1757#1758#0" expanded="true" />
             <element signature="e#1797#1798#0" expanded="true" />
+=======
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="281" column="30" lean-forward="false" selection-start-line="281" selection-start-column="30" selection-end-line="281" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#79046#0" expanded="true" />
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
           </folding>
         </state>
       </provider>
@@ -723,6 +1207,7 @@
   </component>
   <component name="masterDetails">
     <states>
+<<<<<<< HEAD
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
@@ -797,6 +1282,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+=======
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+>>>>>>> f481b4a3376513cad0ac27e0b88f74357dc2e252
           <splitter-proportions>
             <option name="proportions">
               <list>

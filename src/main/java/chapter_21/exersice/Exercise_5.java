@@ -1,4 +1,4 @@
-package chapter_21;
+package chapter_21.exersice;
 
 import java.util.ArrayList;
 import java.util.Arrays;
