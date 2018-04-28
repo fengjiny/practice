@@ -2,13 +2,13 @@ package chapter_21.other;
 
 public class InterruptingIdiom {
     public static void main(String[] args) throws InterruptedException {
-        if (args.length != 1) {
-            System.out.println("usage: java InterruptingIdiom delay-in-ms");
-            System.exit(1);
-        }
+//        if (args.length != 1) {
+//            System.out.println("usage: java InterruptingIdiom delay-in-ms");
+//            System.exit(1);
+//        }
         Thread t = new Thread(new Blocked3());
         t.start();
-        Thread.sleep(3000);
+        Thread.sleep(3500);
         t.interrupt();
     }
 
