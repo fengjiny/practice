@@ -2,299 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15ba21ff-b5d9-472a-82b9-de6ae0fc363b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/nettyinaction/chapter_1/FutureExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/test/Book.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/test/Book2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/test/InitializationDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/test/InitializationDemo2.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_unknown.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/a/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/interview/MultiTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/interview/ReverseString.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/interview/TreeTravel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/ita/chapter_4/Test2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/ita/chapter_4/heapSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/ita/chapter_4/qsort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/ita/chapter_4/quickSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_100_Same_Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_104_Maximum_Depth_of_Binary_Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_110_Balanced_Binary_Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_144_Binary_Tree_Preorder_Traversal.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_226_Invert_Binary_Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_404_Sum_of_Left_Leaves.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_508_Most_Frequent_Subtree_Sum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_513_Find_Bottom_Left_Tree_Value.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_515_Find_Largest_Value_in_Each_Tree_Row.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_538_Convert_BST_to_Greater_Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_563_Binary_Tree_Tilt.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_572_Subtree_of_Another_Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_606_Construct_String_from_Binary_Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_617_Merge_Two_Binary_Trees.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_637_Average_of_Levels_in_Binary_Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_653_Two_Sum_IV_Input_is_a_BST.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_654_Maximum_Binary_Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_669_Trim_a_BinarySearchTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_814_Binary_Tree_Pruning.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_865_Smallest_Subtree_with_all_the_Deepest_Nodes.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_94_Binary_Tree_Inorder_Traversal.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/PrintTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/TreeNode.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change beforePath="$PROJECT_DIR$/practice.iml" afterPath="$PROJECT_DIR$/practice.iml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/Semaphore/Fat.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/Semaphore/Fat.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/Semaphore/Pool.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/Semaphore/Pool.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/Semaphore/SemaphoreDemo.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/Semaphore/SemaphoreDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/deadlock/Chopstick.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/deadlock/Chopstick.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/deadlock/DeadLokingDiningPhilosopher.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/deadlock/DeadLokingDiningPhilosopher.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/deadlock/FixedDiningPhilosophers.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/deadlock/FixedDiningPhilosophers.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/deadlock/Philosopher.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/deadlock/Philosopher.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/example/OrnamentalGarden.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/example/OrnamentalGarden.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_1.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_1.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_10.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_10.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_11.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_11.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_12.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_12.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_13.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_13.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_14.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_14.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_15.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_15.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_16.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_16.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_17.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_17.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_2.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_2.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_3.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_3.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_4.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_4.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_5.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_5.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_6.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_6.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_7.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_7.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_8.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_8.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_9.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_9.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/AtomicIntegerTest.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/AtomicIntegerTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/Atomicity.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/Atomicity.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/AtomicityTest.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/AtomicityTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/CountDownLatchDemo.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/CountDownLatchDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/DelayQueueDemo.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/DelayQueueDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/GreenhouseScheduler.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/GreenhouseScheduler.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/HorseRace.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/HorseRace.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/InterruptingIdiom.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/InterruptingIdiom.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/LiftOff.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/LiftOff.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/NotifyVSNotifyAll.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/NotifyVSNotifyAll.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/OrnamentalGarden.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/OrnamentalGarden.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/PipedIO.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/PipedIO.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/PriorityBlockingQueueDemo.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/PriorityBlockingQueueDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/Restaurant.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/Restaurant.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/SerialNumberChecker.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/SerialNumberChecker.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/SerialNumberGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/SerialNumberGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/Test.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/Test.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/Test3.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/Test3.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/TestAccumulator.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/TestAccumulator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/TestBlockingQueues.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/TestBlockingQueues.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/ThreadLocalVariableHolder.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/ThreadLocalVariableHolder.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/ThreadVariations.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/ThreadVariations.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/ToastMatic.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/ToastMatic.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/WaxOMatic.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/WaxOMatic.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/WaxOMatic2.java" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/WaxOMatic2.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/Semaphore/CheckoutTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/Semaphore/Fat.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/Semaphore/Pool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/Semaphore/SemaphoreDemo$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/Semaphore/SemaphoreDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/deadlock/Chopstick.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/deadlock/DeadLokingDiningPhilosopher.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/deadlock/FixedDiningPhilosophers.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/deadlock/Philosopher.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/Butterer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/Car2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/Chef.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/CountDownLatchDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/DelayQueueDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/DelayedTask$EndSentinel.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/DelayedTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/DelayedTaskConsumer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/Eater.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/GreenhouseScheduler$Bell.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/GreenhouseScheduler$CollectData.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/GreenhouseScheduler$DataPoint.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/GreenhouseScheduler$LightOff.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/GreenhouseScheduler$LightOn.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/GreenhouseScheduler$Terminate$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/GreenhouseScheduler$Terminate.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/GreenhouseScheduler$ThermostatDay.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/GreenhouseScheduler$ThermostatNight.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/GreenhouseScheduler$WaterOff.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/GreenhouseScheduler$WaterOn.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/GreenhouseScheduler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/Horse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/HorseRace$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/HorseRace.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/Jammer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/LiftOff.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/LiftOffRunner.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/Meal.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/PipedIO.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/PrioritizedTask$EndSentinel.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/PrioritizedTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/PrioritizedTaskConsumer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/PrioritizedTaskProducer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/PriorityBlockingQueueDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/Receiver.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/Restaurant.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/Sender.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/TaskPortion.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/TestBlockingQueues.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/Toast$Status.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/Toast.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/ToastMatic.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/ToastQueue.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/Toaster.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/WaitPerson.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/WaitingTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/WaxOMatic2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/WaxOff2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter_21/other/WaxOn2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_12/Singleton.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_12/Singleton.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_12/VolatileTest$1.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_12/VolatileTest$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_12/VolatileTest.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_12/VolatileTest.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_13/AtomicTest$1.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_13/AtomicTest$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_13/AtomicTest.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_13/AtomicTest.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_13/Test_13_2$1.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_13/Test_13_2$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_13/Test_13_2$2.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_13/Test_13_2$2.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_13/Test_13_2.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_13/Test_13_2.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/DirectMemoryOOM.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_2/DirectMemoryOOM.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/HeapOOM$OOMObject.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_2/HeapOOM$OOMObject.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/HeapOOM.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_2/HeapOOM.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaMethodAreaOOM$1.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaMethodAreaOOM$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaMethodAreaOOM$OOMObject.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaMethodAreaOOM$OOMObject.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaMethodAreaOOM.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaMethodAreaOOM.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaVMStackOOM$1.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaVMStackOOM$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaVMStackOOM.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaVMStackOOM.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaVMStackSOF.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaVMStackSOF.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/RuntimeConstantPoolOOM.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_2/RuntimeConstantPoolOOM.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_3/FinalizedEscapeGC.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_3/FinalizedEscapeGC.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_3/PretenureSize.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_3/PretenureSize.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_3/ReferenceCountingGC.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_3/ReferenceCountingGC.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_4/Test$1.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_4/Test$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_4/Test$2.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_4/Test$2.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_4/Test$OOMObject.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_4/Test$OOMObject.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_4/Test$SynAddRunable.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_4/Test$SynAddRunable.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_4/Test.class" afterPath="$PROJECT_DIR$/target/classes/jvm/chapter_4/Test.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/Semaphore/CheckoutTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/Semaphore/Fat.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/Semaphore/Pool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/Semaphore/SemaphoreDemo$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/Semaphore/SemaphoreDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/deadlock/Chopstick.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/deadlock/DeadLokingDiningPhilosopher.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/deadlock/FixedDiningPhilosophers.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/deadlock/Philosopher.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/example/Count.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/example/Entrance.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/example/OrnamentalGarden.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Atomicity.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/CircularSet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Daemon.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/DaemonSpawn.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_10.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_11.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_12.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_13$SerialChecker.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_13.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_14$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_14.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_15$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_15$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_15$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_15$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_15$5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_15$6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_15.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_16$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_16$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_16$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_16$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_16$5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_16$6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_16.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_17.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_8.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Exercise_9.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Fibonacci.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/PriorityThreadFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/RadCount.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/Sensor.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/SerialNumberGenerator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/SimplePriorities.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/SimpleThread.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/SynTest1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/SynTest2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/SynTestA.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/exersice/SynTestB.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Accessor.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/AtomicIntegerTest$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/AtomicIntegerTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Atomicity.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/AtomicityTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Blocked3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Blocker.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Butterer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Car.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Car2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Chef.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/CircularSet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Count.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/CountDownLatchDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/DelayQueueDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/DelayedTask$EndSentinel.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/DelayedTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/DelayedTaskConsumer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Eater.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Entrance.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/GreenhouseScheduler$Bell.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/GreenhouseScheduler$CollectData.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/GreenhouseScheduler$DataPoint.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/GreenhouseScheduler$LightOff.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/GreenhouseScheduler$LightOn.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/GreenhouseScheduler$Terminate$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/GreenhouseScheduler$Terminate.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/GreenhouseScheduler$ThermostatDay.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/GreenhouseScheduler$ThermostatNight.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/GreenhouseScheduler$WaterOff.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/GreenhouseScheduler$WaterOn.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/GreenhouseScheduler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Horse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/HorseRace$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/HorseRace.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/InnerRunnable1$Inner.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/InnerRunnable1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/InnerRunnable2$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/InnerRunnable2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/InnerThread1$Inner.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/InnerThread1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/InnerThread2$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/InnerThread2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/InterruptingIdiom.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Jammer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/LiftOff.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/LiftOffRunner.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Meal.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/NeedsCleanup.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/NotifyVSNotifyAll$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/NotifyVSNotifyAll.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/OrnamentalGarden.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/PipedIO.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/PrioritizedTask$EndSentinel.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/PrioritizedTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/PrioritizedTaskConsumer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/PrioritizedTaskProducer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/PriorityBlockingQueueDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Receiver.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Restaurant.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Sender.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/SerialNumberChecker$SerialChecker.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/SerialNumberChecker.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/SerialNumberGenerator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Task.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Task2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/TaskPortion.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Test$MyRunnable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Test.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Test3$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Test3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/TestAccumulator$Accumulator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/TestAccumulator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/TestBlockingQueues.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/ThreadLocalVariableHolder$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/ThreadLocalVariableHolder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/ThreadMethod$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/ThreadMethod.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/ThreadVariations.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Toast$Status.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Toast.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/ToastMatic.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/ToastQueue.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/Toaster.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/WaitPerson.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/WaitingTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/WaxOMatic.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/WaxOMatic2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/WaxOff.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/WaxOff2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/WaxOn.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tj4/chapter_21/other/WaxOn2.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -306,138 +48,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ThreadLocalVariableHolder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/ThreadLocalVariableHolder.java">
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="43" column="63" lean-forward="false" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
+            <state relative-caret-position="269">
+              <caret line="694" column="19" lean-forward="false" selection-start-line="694" selection-start-column="19" selection-end-line="694" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#549#550#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-                <element signature="e#845#846#0" expanded="true" />
-                <element signature="e#895#896#0" expanded="true" />
-                <element signature="e#939#940#0" expanded="true" />
-                <element signature="e#981#982#0" expanded="true" />
-                <element signature="e#1011#1012#0" expanded="true" />
-                <element signature="e#1045#1046#0" expanded="true" />
+                <element signature="e#20770#20771#0" expanded="true" />
+                <element signature="e#20799#20800#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="65" column="65" lean-forward="false" selection-start-line="65" selection-start-column="65" selection-end-line="65" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrnamentalGarden.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/OrnamentalGarden.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-                <element signature="e#866#867#0" expanded="true" />
-                <element signature="e#897#898#0" expanded="true" />
-                <element signature="e#1472#1473#0" expanded="true" />
-                <element signature="e#1501#1502#0" expanded="true" />
-                <element signature="e#1531#1532#0" expanded="true" />
-                <element signature="e#1590#1591#0" expanded="true" />
-                <element signature="e#1630#1631#0" expanded="true" />
-                <element signature="e#1666#1667#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Exercise_17.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_17.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="62" column="1" lean-forward="false" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#669#670#0" expanded="true" />
-                <element signature="e#700#701#0" expanded="true" />
-                <element signature="e#1270#1271#0" expanded="true" />
-                <element signature="e#1299#1300#0" expanded="true" />
-                <element signature="e#1330#1331#0" expanded="true" />
-                <element signature="e#1387#1388#0" expanded="true" />
-                <element signature="e#1427#1428#0" expanded="true" />
-                <element signature="e#1463#1464#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FutureExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/nettyinaction/chapter_1/FutureExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InitializationDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/InitializationDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-79">
-              <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-              <folding>
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#574#575#0" expanded="true" />
-                <element signature="e#616#617#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="e#79#80#0" expanded="true" />
-                <element signature="e#127#128#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Book2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/Book2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-              <folding>
-                <element signature="e#83#84#0" expanded="true" />
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InitializationDemo2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/InitializationDemo2.java">
+      <file leaf-file-name="LC_572_Subtree_of_Another_Tree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_572_Subtree_of_Another_Tree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -446,11 +71,89 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GreenhouseScheduler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/GreenhouseScheduler.java">
+      <file leaf-file-name="LC_94_Binary_Tree_Inorder_Traversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_94_Binary_Tree_Inorder_Traversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1740">
-              <caret line="126" column="26" lean-forward="false" selection-start-line="126" selection-start-column="26" selection-end-line="126" selection-end-column="26" />
+            <state relative-caret-position="210">
+              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC_538_Convert_BST_to_Greater_Tree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_538_Convert_BST_to_Greater_Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC_404_Sum_of_Left_Leaves.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_404_Sum_of_Left_Leaves.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="28" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC_144_Binary_Tree_Preorder_Traversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_144_Binary_Tree_Preorder_Traversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="33" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC_563_Binary_Tree_Tilt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_563_Binary_Tree_Tilt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC_865_Smallest_Subtree_with_all_the_Deepest_Nodes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_865_Smallest_Subtree_with_all_the_Deepest_Nodes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC_513_Find_Bottom_Left_Tree_Value.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_513_Find_Bottom_Left_Tree_Value.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC_100_Same_Tree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_100_Same_Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -465,6 +168,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>modCount</find>
+      <find>newThr</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -476,39 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/chapter_21/deadlock/FixedDiningPhilosophers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter_21/other/CountDownLatchDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter_21/other/HorseRace.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter_21/other/DelayQueueDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter_21/other/PriorityBlockingQueueDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter_21/other/GreenhouseScheduler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter_21/Semaphore/Pool.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter_21/Semaphore/Fat.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter_21/Semaphore/SemaphoreDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter_21/other/ExchangerDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/PriorityBlockingQueueDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_2/HeapOOM.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_2/JavaVMStackOF.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_2/JavaVMStackSOF.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_2/JavaVMStackOOM.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_2/RuntimeConstantPoolOOM.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_2/JavaMethodAreaOOM.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_3/ReferenceCountingGC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_3/FinalizedEscapeGC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_2/DirectMemoryOOM.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_3/PretenureSize.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_4/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_12/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_12/VolatileTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_13/Test_13_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_13/AtomicTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/ThreadVariations.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_10.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_11.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/Atomicity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/SerialNumberChecker.java" />
         <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/AtomicityTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/SerialNumberGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_12.java" />
@@ -527,6 +203,39 @@
         <option value="$PROJECT_DIR$/src/main/java/test/InitializationDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/Book2.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/introductiontoalgorithms/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/introductiontoalgorithms/sort/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/sort/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/ita/sort/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/interview/TreeTravel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/ita/chapter_4/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/interview/ReverseString.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/a/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/PrintTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_654_Maximum_Binary_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_814_BinaryTreePruning.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_654_MaximumBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_617_MergeTwoBinaryTrees.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_669_Trim_a_BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_513_Find_Bottom_Left_Tree_Value.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_637_Average_of_Levels_in_Binary_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_104_Maximum_Depth_of_Binary_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_110_Balanced_Binary_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_226_Invert_Binary_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_515_Find_Largest_Value_in_Each_Tree_Row.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_508_Most_Frequent_Subtree_Sum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_572_Subtree_of_Another_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_94_Binary_Tree_Inorder_Traversal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_653_Two_Sum_IV_Input_is_a_BST.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_100_Same_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_538_Convert_BST_to_Greater_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_606_Construct_String_from_Binary_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_404_Sum_of_Left_Leaves.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_144_Binary_Tree_Preorder_Traversal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_563_Binary_Tree_Tilt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_865_Smallest_Subtree_with_all_the_Deepest_Nodes.java" />
       </list>
     </option>
   </component>
@@ -543,8 +252,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="545" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="184" />
     <option name="y" value="23" />
     <option name="width" value="1302" />
     <option name="height" value="972" />
@@ -567,8 +276,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -600,23 +307,77 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="a" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="ita" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="Integer&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Integer.java&#10;Object&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;SpinLoc&#9;PSI&#9;JAVA://java.util.concurrent.PriorityBlockingQueue#allocationSpinLock&#10;AtomicI&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger" />
+    <property name="SearchEverywhereHistoryKey" value="threadpool&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;Integer&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Integer.java&#10;Object&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;SpinLoc&#9;PSI&#9;JAVA://java.util.concurrent.PriorityBlockingQueue#allocationSpinLock&#10;AtomicI&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/algorithms" />
+      <recent name="$PROJECT_DIR$/src/main/java/introductiontoalgorithms" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -630,7 +391,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Book2">
+  <component name="RunManager" selected="Application.LC_637_Average_of_Levels_in_Binary_Tree">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -638,14 +399,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LC_637_Average_of_Levels_in_Binary_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="algorithms.leetcode.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="test.Book" />
+      <option name="MAIN_CLASS_NAME" value="algorithms.leetcode.tree.LC_637_Average_of_Levels_in_Binary_Tree" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -657,14 +418,14 @@
       <module name="practice" />
       <envs />
     </configuration>
-    <configuration name="Book2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LC_654_Maximum_Binary_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="algorithms.leetcode.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="test.Book2" />
+      <option name="MAIN_CLASS_NAME" value="algorithms.leetcode.tree.LC_654_Maximum_Binary_Tree" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -676,14 +437,14 @@
       <module name="practice" />
       <envs />
     </configuration>
-    <configuration name="Exercise_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="tj4.chapter_21.exersice.*" />
+          <option name="PATTERN" value="algorithms.interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="tj4.chapter_21.exersice.Exercise_17" />
+      <option name="MAIN_CLASS_NAME" value="algorithms.interview.ReverseString" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -695,14 +456,14 @@
       <module name="practice" />
       <envs />
     </configuration>
-    <configuration name="InitializationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="algorithms.a.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="test.InitializationDemo" />
+      <option name="MAIN_CLASS_NAME" value="algorithms.a.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -714,14 +475,14 @@
       <module name="practice" />
       <envs />
     </configuration>
-    <configuration name="OrnamentalGarden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="tj4.chapter_21.other.*" />
+          <option name="PATTERN" value="algorithms.ita.chapter_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="tj4.chapter_21.other.OrnamentalGarden" />
+      <option name="MAIN_CLASS_NAME" value="algorithms.ita.sort.Test2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -808,19 +569,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.OrnamentalGarden" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Exercise_17" />
-      <item index="2" class="java.lang.String" itemvalue="Application.InitializationDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Book" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Book2" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ReverseString" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LC_654_Maximum_Binary_Tree" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LC_637_Average_of_Levels_in_Binary_Tree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Book2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.InitializationDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Book" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Exercise_17" />
-        <item index="4" class="java.lang.String" itemvalue="Application.OrnamentalGarden" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LC_637_Average_of_Levels_in_Binary_Tree" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LC_654_Maximum_Binary_Tree" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ReverseString" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -842,15 +603,24 @@
       <workItem from="1525229540733" duration="15051000" />
       <workItem from="1525656719497" duration="20293000" />
       <workItem from="1525757836162" duration="16723000" />
-      <workItem from="1529900193422" duration="3022000" />
+      <workItem from="1529900193422" duration="5759000" />
+      <workItem from="1530863124080" duration="968000" />
+      <workItem from="1531295544060" duration="2998000" />
+      <workItem from="1531304053597" duration="622000" />
+      <workItem from="1531367789809" duration="25000" />
+      <workItem from="1531369657410" duration="107000" />
+      <workItem from="1531376380530" duration="873000" />
+      <workItem from="1531475166618" duration="645000" />
+      <workItem from="1531710355875" duration="2720000" />
+      <workItem from="1531723058575" duration="26782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108075000" />
+    <option name="totallyTimeSpent" value="146552000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="545" y="23" width="1302" height="972" extended-state="1" />
+    <frame x="184" y="23" width="1302" height="972" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -861,18 +631,18 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19437939" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26697892" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21311475" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20555556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23412699" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45953003" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15105386" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -895,17 +665,17 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45953003" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15105386" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4086651" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21409921" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19920635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26697892" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21311475" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23412699" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -919,460 +689,200 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="22" />
+      <option name="time" value="26" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/Semaphore/Pool.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/ita/chapter_4/qsort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter_21/other/ExchangerDemo.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/ita/chapter_4/quickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="3144" column="26" lean-forward="false" selection-start-line="3144" selection-start-column="17" selection-end-line="3144" selection-end-column="26" />
-          <folding />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_2/JavaVMStackSOF.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/ita/chapter_4/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_2/RuntimeConstantPoolOOM.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/interview/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_2/JavaVMStackOOM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_2/HeapOOM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="113" column="13" lean-forward="false" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_3/FinalizedEscapeGC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_3/ReferenceCountingGC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_2/JavaMethodAreaOOM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_2/DirectMemoryOOM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_3/PretenureSize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_4/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_12/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_12/VolatileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="512" column="44" lean-forward="false" selection-start-line="512" selection-start-column="44" selection-end-line="512" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#25830#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="1140" column="24" lean-forward="false" selection-start-line="1140" selection-start-column="24" selection-end-line="1140" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/PriorityBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="177" column="7" lean-forward="true" selection-start-line="177" selection-start-column="7" selection-end-line="177" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_13/AtomicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_13/Test_13_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/ThreadVariations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="132" column="25" lean-forward="false" selection-start-line="132" selection-start-column="25" selection-end-line="132" selection-end-column="25" />
-          <folding>
-            <element signature="e#637#638#0" expanded="false" />
-            <element signature="e#696#697#0" expanded="false" />
-            <element signature="e#741#742#0" expanded="false" />
-            <element signature="e#780#781#0" expanded="false" />
-            <element signature="e#1392#1393#0" expanded="false" />
-            <element signature="e#1459#1460#0" expanded="false" />
-            <element signature="e#2155#2156#0" expanded="false" />
-            <element signature="e#2216#2217#0" expanded="false" />
-            <element signature="e#2263#2264#0" expanded="false" />
-            <element signature="e#2302#2303#0" expanded="false" />
-            <element signature="e#2949#2950#0" expanded="false" />
-            <element signature="e#3039#3040#0" expanded="false" />
-            <element signature="e#3223#3224#0" expanded="false" />
-            <element signature="e#3255#3256#0" expanded="false" />
-            <element signature="e#3886#3887#0" expanded="false" />
-            <element signature="e#3961#3962#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="803" column="16" lean-forward="false" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/Atomicity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-          <folding>
-            <element signature="e#80#81#0" expanded="false" />
-            <element signature="e#99#100#0" expanded="false" />
-            <element signature="e#114#115#0" expanded="false" />
-            <element signature="e#136#137#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/AtomicityTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#227#228#0" expanded="false" />
-            <element signature="e#251#252#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/SerialNumberChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="39" column="56" lean-forward="false" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/SerialNumberGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#218#219#0" expanded="false" />
-            <element signature="e#242#243#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="358" column="17" lean-forward="true" selection-start-line="358" selection-start-column="17" selection-end-line="358" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/AtomicIntegerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#348#349#0" expanded="false" />
-            <element signature="e#378#379#0" expanded="false" />
-            <element signature="e#413#414#0" expanded="false" />
-            <element signature="e#443#444#0" expanded="false" />
-            <element signature="e#671#846#0" expanded="false" />
-            <element signature="e#845#846#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="175" column="21" lean-forward="false" selection-start-line="175" selection-start-column="21" selection-end-line="175" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Timer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="189" column="16" lean-forward="false" selection-start-line="189" selection-start-column="16" selection-end-line="189" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="108" column="18" lean-forward="false" selection-start-line="66" selection-start-column="8" selection-end-line="108" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="90" column="22" lean-forward="false" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/ThreadLocalVariableHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="43" column="63" lean-forward="false" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
-            <element signature="e#939#940#0" expanded="true" />
-            <element signature="e#981#982#0" expanded="true" />
-            <element signature="e#1011#1012#0" expanded="true" />
-            <element signature="e#1045#1046#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="65" column="65" lean-forward="false" selection-start-line="65" selection-start-column="65" selection-end-line="65" selection-end-column="65" />
+        <state relative-caret-position="4080">
+          <caret line="302" column="26" lean-forward="false" selection-start-line="302" selection-start-column="26" selection-end-line="302" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="372" column="0" lean-forward="false" selection-start-line="372" selection-start-column="0" selection-end-line="372" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="302" column="0" lean-forward="false" selection-start-line="302" selection-start-column="0" selection-end-line="302" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/io/ExpiringCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13950">
+          <caret line="984" column="13" lean-forward="false" selection-start-line="984" selection-start-column="13" selection-end-line="984" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5220">
+          <caret line="374" column="14" lean-forward="false" selection-start-line="374" selection-start-column="14" selection-end-line="374" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/JarIndex.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4560">
+          <caret line="364" column="0" lean-forward="false" selection-start-line="364" selection-start-column="0" selection-end-line="364" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/io/UnixFileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2355">
+          <caret line="189" column="0" lean-forward="false" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8640">
+          <caret line="617" column="0" lean-forward="false" selection-start-line="617" selection-start-column="0" selection-end-line="617" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12540">
+          <caret line="870" column="0" lean-forward="false" selection-start-line="870" selection-start-column="0" selection-end-line="870" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15990">
+          <caret line="1122" column="0" lean-forward="false" selection-start-line="1122" selection-start-column="0" selection-end-line="1122" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/GreenhouseScheduler.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1740">
-          <caret line="126" column="26" lean-forward="false" selection-start-line="126" selection-start-column="26" selection-end-line="126" selection-end-column="26" />
+        <state relative-caret-position="3540">
+          <caret line="259" column="0" lean-forward="false" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
+          <folding>
+            <marker date="1505382647000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1505382647000" expanded="false" signature="138:493" ph="..." />
+            <marker date="1505382647000" expanded="true" signature="1101:1386" ph="{...}" />
+            <marker date="1505382647000" expanded="false" signature="1445:1456" ph=" { " />
+            <marker date="1505382647000" expanded="false" signature="1489:1495" ph=" }" />
+            <marker date="1505382647000" expanded="true" signature="1582:2527" ph="{...}" />
+            <marker date="1505382647000" expanded="true" signature="2606:3198" ph="{...}" />
+            <marker date="1505382647000" expanded="true" signature="3252:3477" ph="{...}" />
+            <marker date="1505382647000" expanded="true" signature="3530:3856" ph="{...}" />
+            <marker date="1505382647000" expanded="true" signature="3908:4170" ph="{...}" />
+            <marker date="1505382647000" expanded="false" signature="4219:4230" ph=" { " />
+            <marker date="1505382647000" expanded="false" signature="4278:4284" ph=" }" />
+            <marker date="1505382647000" expanded="true" signature="4373:5052" ph="{...}" />
+            <marker date="1505382647000" expanded="false" signature="5094:5105" ph=" { " />
+            <marker date="1505382647000" expanded="false" signature="5157:5163" ph=" }" />
+            <marker date="1505382647000" expanded="false" signature="5221:5232" ph=" { " />
+            <marker date="1505382647000" expanded="false" signature="5290:5296" ph=" }" />
+            <marker date="1505382647000" expanded="true" signature="5341:5562" ph="{...}" />
+            <marker date="1505382647000" expanded="true" signature="5629:5718" ph="{...}" />
+            <marker date="1505382647000" expanded="true" signature="5782:5872" ph="{...}" />
+            <marker date="1505382647000" expanded="false" signature="5924:5935" ph=" { " />
+            <marker date="1505382647000" expanded="false" signature="5986:5992" ph=" }" />
+            <marker date="1505382647000" expanded="true" signature="6085:6887" ph="{...}" />
+            <marker date="1505382647000" expanded="true" signature="6970:7298" ph="{...}" />
+            <marker date="1505382647000" expanded="true" signature="8185:8394" ph="{...}" />
+            <marker date="1505382647000" expanded="false" signature="8225:8291" ph="run() → {" />
+            <marker date="1505382647000" expanded="false" signature="8371:8386" ph="}" />
+            <marker date="1505382647000" expanded="true" signature="8492:9802" ph="{...}" />
+            <marker date="1505382647000" expanded="true" signature="9888:9955" ph="{...}" />
+            <marker date="1505382647000" expanded="true" signature="10043:10112" ph="{...}" />
+            <marker date="1505382647000" expanded="true" signature="10239:10437" ph="{...}" />
+            <marker date="1505382647000" expanded="true" signature="10450:10499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/OrnamentalGarden.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/a/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        <state relative-caret-position="150">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#866#867#0" expanded="true" />
-            <element signature="e#897#898#0" expanded="true" />
-            <element signature="e#1472#1473#0" expanded="true" />
-            <element signature="e#1501#1502#0" expanded="true" />
-            <element signature="e#1531#1532#0" expanded="true" />
-            <element signature="e#1590#1591#0" expanded="true" />
-            <element signature="e#1630#1631#0" expanded="true" />
-            <element signature="e#1666#1667#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#217#218#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_17.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="62" column="1" lean-forward="false" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#1270#1271#0" expanded="true" />
-            <element signature="e#1299#1300#0" expanded="true" />
-            <element signature="e#1330#1331#0" expanded="true" />
-            <element signature="e#1387#1388#0" expanded="true" />
-            <element signature="e#1427#1428#0" expanded="true" />
-            <element signature="e#1463#1464#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nettyinaction/chapter_1/FutureExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="5400">
+          <caret line="400" column="0" lean-forward="false" selection-start-line="400" selection-start-column="0" selection-end-line="400" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/InitializationDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-79">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding>
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/InitializationDemo2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -1380,26 +890,273 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Book.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/PrintTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="195">
+          <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
           <folding>
-            <element signature="e#79#80#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Book2.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="79" column="26" lean-forward="false" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+          <folding>
+            <element signature="e#2838#2839#0" expanded="false" />
+            <element signature="e#2872#2873#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="486" column="26" lean-forward="false" selection-start-line="486" selection-start-column="26" selection-end-line="486" selection-end-column="26" />
+          <folding>
+            <element signature="e#12004#12005#0" expanded="false" />
+            <element signature="e#12044#12045#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1614">
+          <caret line="143" column="17" lean-forward="false" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_814/_BinaryTreePruning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_814_Binary_Tree_Pruning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_654_Maximum_Binary_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#364#365#0" expanded="false" />
+            <element signature="e#422#423#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_617_Merge_Two_Binary_Trees.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_669_Trim_a_BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="84" column="19" lean-forward="false" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
           <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#2293#2294#0" expanded="false" />
+            <element signature="e#2327#2328#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_637_Average_of_Levels_in_Binary_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_110_Balanced_Binary_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <element signature="e#613#614#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_104_Maximum_Depth_of_Binary_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="71" lean-forward="false" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_226_Invert_Binary_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_515_Find_Largest_Value_in_Each_Tree_Row.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="407" column="19" lean-forward="false" selection-start-line="407" selection-start-column="19" selection-end-line="407" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_508_Most_Frequent_Subtree_Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_100_Same_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_606_Construct_String_from_Binary_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_653_Two_Sum_IV_Input_is_a_BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_94_Binary_Tree_Inorder_Traversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_572_Subtree_of_Another_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_538_Convert_BST_to_Greater_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_513_Find_Bottom_Left_Tree_Value.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="694" column="19" lean-forward="false" selection-start-line="694" selection-start-column="19" selection-end-line="694" selection-end-column="19" />
+          <folding>
+            <element signature="e#20770#20771#0" expanded="true" />
+            <element signature="e#20799#20800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_404_Sum_of_Left_Leaves.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_144_Binary_Tree_Preorder_Traversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="33" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_563_Binary_Tree_Tilt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_865_Smallest_Subtree_with_all_the_Deepest_Nodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
