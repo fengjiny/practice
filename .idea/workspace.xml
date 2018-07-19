@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15ba21ff-b5d9-472a-82b9-de6ae0fc363b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_198_House_Robber.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_108_Convert_Sorted_Array_to_Binary_Search_Tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_230_Kth_Smallest_Element_in_a_BST.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_543_Diameter_of_Binary_Tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_623_Add_One_Row_to_Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/CL_173_Binary_Search_Tree_Iterator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_101_Symmetric_Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_102_Binary_Tree_Level_Order_Traversal.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_107_Binary_Tree_Level_Order_Traversal_II.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_145_Binary_Tree_Postorder_Traversal.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_199_Binary_Tree_Right_Side_View.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_257_Binary_Tree_Paths.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_671_Second_Minimum_Node_In_a_Binary_Tree.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_865_Smallest_Subtree_with_all_the_Deepest_Nodes.java" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_865_Smallest_Subtree_with_all_the_Deepest_Nodes.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +26,8 @@
       <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9765">
-              <caret line="694" column="19" lean-forward="false" selection-start-line="694" selection-start-column="19" selection-end-line="694" selection-end-column="19" />
+            <state relative-caret-position="201">
+              <caret line="671" column="13" lean-forward="false" selection-start-line="671" selection-start-column="13" selection-end-line="671" selection-end-column="13" />
               <folding>
                 <element signature="e#20770#20771#0" expanded="true" />
                 <element signature="e#20799#20800#0" expanded="true" />
@@ -33,11 +36,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC_404_Sum_of_Left_Leaves.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_404_Sum_of_Left_Leaves.java">
+      <file leaf-file-name="CL_173_Binary_Search_Tree_Iterator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/CL_173_Binary_Search_Tree_Iterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="28" selection-end-column="19" />
+            <state relative-caret-position="450">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC_102_Binary_Tree_Level_Order_Traversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_102_Binary_Tree_Level_Order_Traversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,31 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC_144_Binary_Tree_Preorder_Traversal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_144_Binary_Tree_Preorder_Traversal.java">
+      <file leaf-file-name="LC_199_Binary_Tree_Right_Side_View.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_199_Binary_Tree_Right_Side_View.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="33" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LC_563_Binary_Tree_Tilt.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_563_Binary_Tree_Tilt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LC_865_Smallest_Subtree_with_all_the_Deepest_Nodes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_865_Smallest_Subtree_with_all_the_Deepest_Nodes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="75">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,51 +75,67 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC_230_Kth_Smallest_Element_in_a_BST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_230_Kth_Smallest_Element_in_a_BST.java">
+      <file leaf-file-name="LC_145_Binary_Tree_Postorder_Traversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_145_Binary_Tree_Postorder_Traversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="270">
+              <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC_623_Add_One_Row_to_Tree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_623_Add_One_Row_to_Tree.java">
+      <file leaf-file-name="LC_107_Binary_Tree_Level_Order_Traversal_II.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_107_Binary_Tree_Level_Order_Traversal_II.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="135">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="24" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC_108_Convert_Sorted_Array_to_Binary_Search_Tree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_108_Convert_Sorted_Array_to_Binary_Search_Tree.java">
+      <file leaf-file-name="LC_257_Binary_Tree_Paths.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_257_Binary_Tree_Paths.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC_671_Second_Minimum_Node_In_a_Binary_Tree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_671_Second_Minimum_Node_In_a_Binary_Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC_543_Diameter_of_Binary_Tree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_543_Diameter_of_Binary_Tree.java">
+      <file leaf-file-name="LC_101_Symmetric_Tree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_101_Symmetric_Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC_198_House_Robber.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_198_House_Robber.java">
+      <file leaf-file-name="LC_235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="8" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -133,6 +147,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -153,17 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_14.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_15.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_16.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/ThreadLocalVariableHolder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/other/OrnamentalGarden.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tj4/chapter_21/exersice/Exercise_17.java" />
-        <option value="$PROJECT_DIR$/src/main/java/nettyinaction/FutureExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/nettyinaction/chapter_1/FutureExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/ClassLoadTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/InitializationDemo2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/InitializationDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/Book2.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/introductiontoalgorithms/Test2.java" />
@@ -204,6 +208,17 @@
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_108_Convert_Sorted_Array_to_Binary_Search_Tree.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_543_Diameter_of_Binary_Tree.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_198_House_Robber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_684_Redundant_Connection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/CL_173_Binary_Search_Tree_Iterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_102_Binary_Tree_Level_Order_Traversal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_199_Binary_Tree_Right_Side_View.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_145_Binary_Tree_Postorder_Traversal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_107_Binary_Tree_Level_Order_Traversal_II.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_96_Unique_Binary_Search_Trees.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_257_Binary_Tree_Paths.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_671_Second_Minimum_Node_In_a_Binary_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_101_Symmetric_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java" />
       </list>
     </option>
   </component>
@@ -221,8 +236,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="286" />
-    <option name="y" value="23" />
+    <option name="x" value="149" />
+    <option name="y" value="42" />
     <option name="width" value="1302" />
     <option name="height" value="972" />
   </component>
@@ -581,15 +596,15 @@
       <workItem from="1531475166618" duration="645000" />
       <workItem from="1531710355875" duration="2720000" />
       <workItem from="1531723058575" duration="29482000" />
-      <workItem from="1531902265111" duration="7685000" />
+      <workItem from="1531902265111" duration="17255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156937000" />
+    <option name="totallyTimeSpent" value="166507000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="286" y="23" width="1302" height="972" extended-state="0" />
+    <frame x="149" y="42" width="1302" height="972" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -663,76 +678,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="372" column="0" lean-forward="false" selection-start-line="372" selection-start-column="0" selection-end-line="372" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="302" column="0" lean-forward="false" selection-start-line="302" selection-start-column="0" selection-end-line="302" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/io/ExpiringCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13950">
-          <caret line="984" column="13" lean-forward="false" selection-start-line="984" selection-start-column="13" selection-end-line="984" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5220">
-          <caret line="374" column="14" lean-forward="false" selection-start-line="374" selection-start-column="14" selection-end-line="374" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/JarIndex.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4560">
-          <caret line="364" column="0" lean-forward="false" selection-start-line="364" selection-start-column="0" selection-end-line="364" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/io/UnixFileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2355">
-          <caret line="189" column="0" lean-forward="false" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8640">
-          <caret line="617" column="0" lean-forward="false" selection-start-line="617" selection-start-column="0" selection-end-line="617" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Runtime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12540">
@@ -854,6 +799,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="84" column="19" lean-forward="false" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
+          <folding>
+            <element signature="e#2293#2294#0" expanded="false" />
+            <element signature="e#2327#2328#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -875,6 +824,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="71" lean-forward="false" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -896,6 +848,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="407" column="19" lean-forward="false" selection-start-line="407" selection-start-column="19" selection-end-line="407" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -969,23 +922,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9765">
-          <caret line="694" column="19" lean-forward="false" selection-start-line="694" selection-start-column="19" selection-end-line="694" selection-end-column="19" />
-          <folding>
-            <element signature="e#20770#20771#0" expanded="true" />
-            <element signature="e#20799#20800#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_404_Sum_of_Left_Leaves.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="28" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1011,7 +953,7 @@
         <state relative-caret-position="180">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1052,6 +994,112 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_684_Redundant_Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/CL_173_Binary_Search_Tree_Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="671" column="13" lean-forward="false" selection-start-line="671" selection-start-column="13" selection-end-line="671" selection-end-column="13" />
+          <folding>
+            <element signature="e#20770#20771#0" expanded="true" />
+            <element signature="e#20799#20800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_102_Binary_Tree_Level_Order_Traversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_199_Binary_Tree_Right_Side_View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_145_Binary_Tree_Postorder_Traversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_107_Binary_Tree_Level_Order_Traversal_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_257_Binary_Tree_Paths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_671_Second_Minimum_Node_In_a_Binary_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_101_Symmetric_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="8" selection-end-column="20" />
           <folding />
         </state>
       </provider>
