@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15ba21ff-b5d9-472a-82b9-de6ae0fc363b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_113_Path_Sum_II.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_116_Populating_Next_Right_Pointers_in_Each_Node.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_700_Search_in_a_Binary_Search_Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_832_Flipping_an_Image.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_867_Transpose_Matrix.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_111_Minimum_Depth_of_Binary_Tree.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_700_Search_in_a_Binary_Search_Tree.java" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_700_Search_in_a_Binary_Search_Tree.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,28 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LC_501_Find_Mode_in_Binary_Search_Tree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_501_Find_Mode_in_Binary_Search_Tree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LC_103_Binary_Tree_Zigzag_Level_Order_Traversal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_103_Binary_Tree_Zigzag_Level_Order_Traversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LC_114_Flatten_Binary_Tree_to_Linked_List.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_114_Flatten_Binary_Tree_to_Linked_List.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,14 +65,44 @@
       <file leaf-file-name="LC_700_Search_in_a_Binary_Search_Tree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_700_Search_in_a_Binary_Search_Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC_563_Binary_Tree_Tilt.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LC_111_Minimum_Depth_of_Binary_Tree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_111_Minimum_Depth_of_Binary_Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC_832_Flipping_an_Image.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_832_Flipping_an_Image.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC_867_Transpose_Matrix.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_867_Transpose_Matrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC_563_Binary_Tree_Tilt.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_563_Binary_Tree_Tilt.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -108,16 +117,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="599" column="6" lean-forward="false" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LC_652_Find_Duplicate_Subtrees.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_652_Find_Duplicate_Subtrees.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="38" lean-forward="false" selection-start-line="17" selection-start-column="52" selection-end-line="18" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -151,10 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_654_Maximum_Binary_Tree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_814_BinaryTreePruning.java" />
-        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_654_MaximumBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_617_MergeTwoBinaryTrees.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_669_Trim_a_BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_513_Find_Bottom_Left_Tree_Value.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_637_Average_of_Levels_in_Binary_Tree.java" />
@@ -202,6 +197,10 @@
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_116_Populating_Next_Right_Pointers_in_Each_Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_113_Path_Sum_II.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_700_Search_in_a_Binary_Search_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_111_Minimum_Depth_of_Binary_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_689_Maximum_Sum_of_3_Non_Overlapping_Subarrays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_832_Flipping_an_Image.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_867_Transpose_Matrix.java" />
       </list>
     </option>
   </component>
@@ -218,8 +217,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="168" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="228" />
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="973" />
@@ -286,24 +285,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="a" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="ita" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -323,29 +304,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="LC_116_Populating_Next_Right_Pointers_in_Each_Node.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="LC_501_Find_Mode_in_Binary_Search_Tree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -603,15 +562,15 @@
       <workItem from="1531723058575" duration="29482000" />
       <workItem from="1531902265111" duration="20336000" />
       <workItem from="1532073249846" duration="596000" />
-      <workItem from="1532317930155" duration="19004000" />
+      <workItem from="1532317930155" duration="24120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189188000" />
+    <option name="totallyTimeSpent" value="194304000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="168" y="23" width="1680" height="973" extended-state="1" />
+    <frame x="228" y="23" width="1680" height="973" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -685,44 +644,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_637_Average_of_Levels_in_Binary_Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_110_Balanced_Binary_Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-          <folding>
-            <element signature="e#613#614#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_104_Maximum_Depth_of_Binary_Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="71" lean-forward="false" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_226_Invert_Binary_Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_515_Find_Largest_Value_in_Each_Tree_Row.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1110,18 +1031,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_700_Search_in_a_Binary_Search_Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_563_Binary_Tree_Tilt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_700_Search_in_a_Binary_Search_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/tree/LC_111_Minimum_Depth_of_Binary_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_689_Maximum_Sum_of_3_Non_Overlapping_Subarrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_832_Flipping_an_Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_867_Transpose_Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
           <folding />
         </state>
       </provider>
