@@ -1,16 +1,23 @@
 package algorithms.leetcode.array;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class LC_867_Transpose_Matrix {
     public int[][] transpose(int[][] A) {
-        int col = A.length - 1;
-        int row = A[0].length - 1;
+        int row = A.length;
+        int col = A[0].length;
         int[][] res = new int[col][row];
-        for (int[] nums : A) {
-            for (int i = nums.length - 1; i >= 0; --i) {
-                res[col--][row] = nums[i];
+        for (int i = 0; i < row; ++i) {
+            for (int j = 0; j < col; ++j) {
+                res[j][i] = A[i][j];
             }
-            --row;
         }
-        return A;
+        return res;
+    }
+
+    public static void main(String[] args) {
+        int[][] nums = new int[4][3];
+        System.out.println(nums.length);
     }
 }
