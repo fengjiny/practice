@@ -1,4 +1,4 @@
-package algorithms.leetcode.dp;
+package algorithms.leetcode.depth_first_search;
 
 public class LC_338_Counting_Bits {
     public int[] countBits(int num) {
