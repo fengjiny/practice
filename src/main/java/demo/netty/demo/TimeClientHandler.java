@@ -1,6 +1,6 @@
 package demo.netty.demo;
 
-import com.printer.client.BytesHexStrTranslate;
+import demo.netty.client.BytesHexStrTranslate;
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
