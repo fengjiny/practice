@@ -7,7 +7,7 @@ public class GjjCalculator {
     public static void main(String[] args) {
         double total = 0;
         System.out.println("按照程序员普遍能达到的社保上限来算，每月公积金约等于6000，一年72000， 年利率4%。");
-        for (int i = 1; i <= 10; ++i) {
+        for (int i = 1; i <= 12; ++i) {
             total += totalGjj(i, 72000, 1.04);
         }
         System.out.println("每年都取出来理财,最后总数：" + df.format(total));
