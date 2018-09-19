@@ -16,5 +16,6 @@
     <orderEntry type="library" name="Maven: cglib:cglib:2.2.2" level="project" />
     <orderEntry type="library" name="Maven: asm:asm:3.3.1" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:unknown" level="project" />
+    <orderEntry type="library" name="net" level="project" />
   </component>
 </module>
