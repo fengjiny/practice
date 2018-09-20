@@ -2,29 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fe62fad-28f6-41fb-b200-f0b5f31c4ebb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/net.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/a/AbstractChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/a/AbstractTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/a/CountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/a/InterfaceChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/a/InterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/a/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/a/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_1/NotInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_1/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_1/SuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_3/ConstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_3/NotInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/DirList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/DirList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/DirList3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/Directory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/GetChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/string/LC_392_Is_Subsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/a.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,26 +18,26 @@
     <session id="-163356409">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="109" />
+          <entry key="java" value="112" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="109" />
+          <entry key="JAVA" value="112" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="24" />
-          <entry key="java" value="11751" />
+          <entry key="java" value="11906" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11751" />
+          <entry key="JAVA" value="11906" />
           <entry key="PLAIN_TEXT" value="24" />
           <entry key="XML" value="1" />
         </counts>
@@ -101,32 +82,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/a.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/DirList.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/string/LC_392_Is_Subsequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/DirList3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -153,14 +119,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/GetChannel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+            <state relative-caret-position="420">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -232,7 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/图解java多线程/future/FutureData.java" />
         <option value="$PROJECT_DIR$/src/main/java/图解java多线程/future/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/图解java多线程/two_phase_termination/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/图解java多线程/two_phase_termination/CountupThread.java" />
@@ -277,12 +251,13 @@
         <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_1/NotInitialization.java" />
         <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_3/ConstClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_3/NotInitialization.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/a.java" />
         <option value="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/DirList.java" />
         <option value="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/DirList2.java" />
         <option value="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/DirList3.java" />
         <option value="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/Directory.java" />
         <option value="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/GetChannel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/a.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/string/LC_392_Is_Subsequence.java" />
       </list>
     </option>
   </component>
@@ -357,6 +332,33 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -366,15 +368,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="thintkinginjava4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thintkinginjava4" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_18" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
@@ -393,7 +386,7 @@
     <property name="SearchEverywhereHistoryKey" value="readwritel&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReadWriteLock.java&#10;ReadWriteLock&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReadWriteLock.java&#10;readwrite&#9;FILE&#9;file:///Users/mobike/IdeaProjects/practice/src/main/java/图解java多线程/read_write_lock/ReadWriteLock.java&#10;threadloc&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java&#10;thread&#9;PSI&#9;JAVA://thintkinginjava4.chapter_21.other.ThreadMethod&#10;concurr&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;concurrentH&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537358792973" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537413644558" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -415,23 +408,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GetChannel">
+  <component name="RunManager" selected="Application.a">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DirList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thintkinginjava4.chapter_18.section_18_1.DirList" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thintkinginjava4.chapter_18.section_18_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -498,6 +477,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thintkinginjava4.chapter_18.a" />
+      <module name="practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thintkinginjava4.chapter_18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -522,19 +515,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DirList" />
       <item itemvalue="Application.DirList2" />
       <item itemvalue="Application.DirList3" />
       <item itemvalue="Application.Directory" />
       <item itemvalue="Application.GetChannel" />
+      <item itemvalue="Application.a" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.a" />
         <item itemvalue="Application.GetChannel" />
         <item itemvalue="Application.Directory" />
         <item itemvalue="Application.DirList3" />
         <item itemvalue="Application.DirList2" />
-        <item itemvalue="Application.DirList" />
       </list>
     </recent_temporary>
   </component>
@@ -560,12 +553,12 @@
       <workItem from="1536919700942" duration="599000" />
       <workItem from="1537255825125" duration="3939000" />
       <workItem from="1537326328841" duration="5179000" />
-      <workItem from="1537351979355" duration="4324000" />
+      <workItem from="1537351979355" duration="8339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87638000" />
+    <option name="totallyTimeSpent" value="91653000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -580,7 +573,7 @@
     <frame x="409" y="23" width="1305" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18923199" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18923199" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -589,7 +582,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329849" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2578397" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25667828" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.329849" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -647,13 +640,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/thread_specific_storage/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/thread_specific_storage/ClientThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -827,13 +813,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/a/AbstractTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -939,13 +918,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/a.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/DirList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1030,11 +1002,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/GetChannel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/string/LC_392_Is_Subsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
