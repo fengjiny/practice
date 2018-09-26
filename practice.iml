@@ -17,5 +17,6 @@
     <orderEntry type="library" name="Maven: asm:asm:3.3.1" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:unknown" level="project" />
     <orderEntry type="library" name="net" level="project" />
+    <orderEntry type="library" name="algs4" level="project" />
   </component>
 </module>

@@ -2,10 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fe62fad-28f6-41fb-b200-f0b5f31c4ebb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/string/LC_392_Is_Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/algs4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm_4th/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm_4th/chapter_4/BreadthFirstPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm_4th/chapter_4/DepthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm_4th/chapter_4/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm_4th/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_207_Course_Schedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_210_Course_Schedule_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/AvailaleCharSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/BufferToText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/ChannelCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/TransferTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/exercises/chapter_1/习题1_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/exercises/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/ActivationQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/ActivationQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/ActiveObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/ActiveObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/ActiveObjectFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/ActiveObjectFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/DisplayClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/DisplayClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/DisplayStringRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/DisplayStringRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/FutureResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/FutureResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/MakeStringRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/MakeStringRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/MakerClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/MakerClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/MethodRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/MethodRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/RealResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/RealResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/SchedulerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/SchedulerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/Servant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/Servant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/balking/ChangerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/balking/ChangerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/balking/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/balking/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/balking/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/balking/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/balking/SaverThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/balking/SaverThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/future/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/future/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/future/FutureData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/future/FutureData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/future/Host.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/future/Host.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/future/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/future/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/future/RealData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/future/RealData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/guardedSuspension/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/guardedSuspension/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/guardedSuspension/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/guardedSuspension/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/guardedSuspension/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/guardedSuspension/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/guardedSuspension/RequestQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/guardedSuspension/RequestQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/guardedSuspension/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/guardedSuspension/ServerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/immutable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/immutable/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/immutable/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/immutable/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/immutable/PrintPersonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/immutable/PrintPersonThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/immutable/ReaderThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/immutable/ReaderThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/immutable/WriterThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/immutable/WriterThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/producer_consumer/EaterThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/producer_consumer/EaterThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/producer_consumer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/producer_consumer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/producer_consumer/MakerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/producer_consumer/MakerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/producer_consumer/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/producer_consumer/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/read_write_lock/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/read_write_lock/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/read_write_lock/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/read_write_lock/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/read_write_lock/ReadWriteLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/read_write_lock/ReadWriteLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/read_write_lock/ReaderThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/read_write_lock/ReaderThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/read_write_lock/WriterThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/read_write_lock/WriterThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/singleThreadedExecution/Gate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/singleThreadedExecution/Gate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/singleThreadedExecution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/singleThreadedExecution/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/singleThreadedExecution/UserThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/singleThreadedExecution/UserThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/thread_per_message/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/thread_per_message/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/thread_per_message/Host.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/thread_per_message/Host.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/thread_per_message/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/thread_per_message/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/thread_specific_storage/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/thread_specific_storage/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/thread_specific_storage/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/thread_specific_storage/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/thread_specific_storage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/thread_specific_storage/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/thread_specific_storage/TSLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/thread_specific_storage/TSLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/two_phase_termination/CountupThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/two_phase_termination/CountupThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/two_phase_termination/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/two_phase_termination/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/two_phase_termination/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/two_phase_termination/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/two_phase_termination/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/two_phase_termination/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/two_phase_termination/MyCyclicBarrierTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/two_phase_termination/MyCyclicBarrierTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/two_phase_termination/MyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/two_phase_termination/MyTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/worker_thread/Channel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/worker_thread/Channel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/worker_thread/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/worker_thread/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/worker_thread/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/worker_thread/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/worker_thread/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/worker_thread/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/worker_thread/WorkerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/图解java多线程/example/worker_thread/WorkerThread.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,27 +94,32 @@
     <session id="-163356409">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="112" />
+          <entry key="class" value="1" />
+          <entry key="java" value="142" />
+          <entry key="txt" value="3" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="112" />
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="142" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="24" />
-          <entry key="java" value="11906" />
+          <entry key="java" value="15095" />
+          <entry key="txt" value="442" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11906" />
-          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="JAVA" value="15095" />
+          <entry key="PLAIN_TEXT" value="466" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -80,114 +161,87 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/a.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithm_4th/chapter_4/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="585">
+              <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#729#730#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#928#929#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/Bag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="44" column="23" lean-forward="true" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithm_4th/chapter_4/DepthFirstSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding>
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithm_4th/chapter_4/BreadthFirstPaths.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#423#432#0" expanded="true" />
+                <element signature="e#814#815#0" expanded="true" />
+                <element signature="e#846#847#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/string/LC_392_Is_Subsequence.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_207_Course_Schedule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="75">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/Directory.java">
+        <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
-                <element signature="e#797#798#0" expanded="true" />
-                <element signature="e#1429#1430#0" expanded="true" />
-                <element signature="e#1487#1488#0" expanded="true" />
-                <element signature="e#1541#1542#0" expanded="true" />
-                <element signature="e#1576#1577#0" expanded="true" />
-                <element signature="e#1636#1637#0" expanded="true" />
-                <element signature="e#1671#1672#0" expanded="true" />
-                <element signature="e#1732#1733#0" expanded="true" />
-                <element signature="e#1767#1768#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="278">
+              <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/GetChannel.java">
+        <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/In.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/DirList2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16890">
-              <caret line="1183" column="43" selection-start-line="1183" selection-start-column="43" selection-end-line="1183" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/io/File.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1725">
-              <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_3/NotInitialization.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-              <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/demo/a/CountTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="-361">
+              <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -207,18 +261,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/图解java多线程/future/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/图解java多线程/two_phase_termination/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/图解java多线程/two_phase_termination/CountupThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/图解java多线程/two_phase_termination/MyTask.java" />
-        <option value="$PROJECT_DIR$/src/main/java/图解java多线程/two_phase_termination/MyCyclicBarrierTask.java" />
-        <option value="$PROJECT_DIR$/src/main/java/图解java多线程/two_phase_termination/Main2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/图解java多线程/two_phase_termination/Main3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/图解java多线程/thread_specific_storage/TSlog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/图解java多线程/thread_specific_storage/TSLog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/图解java多线程/thread_specific_storage/Log.java" />
-        <option value="$PROJECT_DIR$/src/main/java/图解java多线程/thread_specific_storage/ClientThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/图解java多线程/thread_specific_storage/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/Result.java" />
         <option value="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/ActiveObject.java" />
         <option value="$PROJECT_DIR$/src/main/java/图解java多线程/active_object/MakerClientThread.java" />
@@ -258,6 +300,18 @@
         <option value="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/GetChannel.java" />
         <option value="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/a.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/string/LC_392_Is_Subsequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/ChannelCopy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/TransferTo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/BufferToText.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/AvailaleCharSets.java" />
+        <option value="$PROJECT_DIR$/src/main/java/图解java多线程/exercises/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/图解java多线程/exercises/chapter_1/习题1_1.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_207_Course_Schedule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm_4th/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm_4th/Bag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm_4th/chapter_4/Graph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm_4th/chapter_4/BreadthFirstPaths.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm_4th/chapter_4/DepthFirstSearch.java" />
       </list>
     </option>
   </component>
@@ -286,7 +340,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="409" />
+    <option name="x" value="669" />
     <option name="y" value="23" />
     <option name="width" value="1305" />
     <option name="height" value="976" />
@@ -351,29 +405,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thintkinginjava4" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -386,10 +428,11 @@
     <property name="SearchEverywhereHistoryKey" value="readwritel&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReadWriteLock.java&#10;ReadWriteLock&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReadWriteLock.java&#10;readwrite&#9;FILE&#9;file:///Users/mobike/IdeaProjects/practice/src/main/java/图解java多线程/read_write_lock/ReadWriteLock.java&#10;threadloc&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java&#10;thread&#9;PSI&#9;JAVA://thintkinginjava4.chapter_21.other.ThreadMethod&#10;concurr&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;concurrentH&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537413644558" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537959607256" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -408,20 +451,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.a">
+  <component name="RunManager" selected="Application.AvailaleCharSets">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DirList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thintkinginjava4.chapter_18.section_18_1.DirList2" />
+    <configuration name="AvailaleCharSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thintkinginjava4.chapter_18.section_18_10.AvailaleCharSets" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thintkinginjava4.chapter_18.section_18_1.*" />
+          <option name="PATTERN" value="thintkinginjava4.chapter_18.section_18_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -429,13 +472,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DirList3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thintkinginjava4.chapter_18.section_18_1.DirList3" />
+    <configuration name="BufferToText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thintkinginjava4.chapter_18.section_18_10.BufferToText" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thintkinginjava4.chapter_18.section_18_1.*" />
+          <option name="PATTERN" value="thintkinginjava4.chapter_18.section_18_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -443,13 +486,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Directory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thintkinginjava4.chapter_18.section_18_1.Directory" />
+    <configuration name="ChannelCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thintkinginjava4.chapter_18.section_18_10.ChannelCopy" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thintkinginjava4.chapter_18.section_18_1.*" />
+          <option name="PATTERN" value="thintkinginjava4.chapter_18.section_18_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -515,19 +558,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DirList2" />
-      <item itemvalue="Application.DirList3" />
-      <item itemvalue="Application.Directory" />
       <item itemvalue="Application.GetChannel" />
       <item itemvalue="Application.a" />
+      <item itemvalue="Application.ChannelCopy" />
+      <item itemvalue="Application.BufferToText" />
+      <item itemvalue="Application.AvailaleCharSets" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AvailaleCharSets" />
+        <item itemvalue="Application.BufferToText" />
+        <item itemvalue="Application.ChannelCopy" />
         <item itemvalue="Application.a" />
         <item itemvalue="Application.GetChannel" />
-        <item itemvalue="Application.Directory" />
-        <item itemvalue="Application.DirList3" />
-        <item itemvalue="Application.DirList2" />
       </list>
     </recent_temporary>
   </component>
@@ -553,12 +596,12 @@
       <workItem from="1536919700942" duration="599000" />
       <workItem from="1537255825125" duration="3939000" />
       <workItem from="1537326328841" duration="5179000" />
-      <workItem from="1537351979355" duration="8339000" />
+      <workItem from="1537351979355" duration="22770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91653000" />
+    <option name="totallyTimeSpent" value="106084000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -570,10 +613,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="409" y="23" width="1305" height="976" extended-state="0" />
+    <frame x="669" y="23" width="1305" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18923199" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18923199" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -582,7 +625,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329849" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25667828" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25667828" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.329849" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -640,207 +683,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/thread_specific_storage/ClientThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/thread_specific_storage/TSLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/thread_specific_storage/Log.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/active_object/DisplayClientThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/active_object/MakeStringRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/active_object/ActivationQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/active_object/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/active_object/FutureResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/active_object/RealResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/active_object/Result.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/active_object/ActiveObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/active_object/MakerClientThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/active_object/Servant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/active_object/DisplayStringRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/active_object/MethodRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/active_object/SchedulerThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/active_object/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-988" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/read_write_lock/ReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="252" column="74" lean-forward="true" selection-start-line="252" selection-start-column="74" selection-end-line="252" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/active_object/ActiveObjectFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="2375" column="30" selection-start-line="2375" selection-start-column="30" selection-end-line="2375" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/immutable/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/immutable/PrintPersonThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/immutable/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/a/AbstractTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/a/AbstractChild.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/a/InterfaceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/a/InterfaceChild.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -852,6 +694,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1000,16 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/GetChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -1017,17 +852,275 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/a.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/string/LC_392_Is_Subsequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/string/LC_392_Is_Subsequence.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="969" column="23" selection-start-line="969" selection-start-column="23" selection-end-line="969" selection-end-column="23" />
+          <folding>
+            <element signature="e#40171#40172#0" expanded="true" />
+            <element signature="e#40220#40221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/TransferTo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/GetChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/ChannelCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/nio/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="355" column="24" selection-start-line="355" selection-start-column="24" selection-end-line="355" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/BufferToText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/nio/charset/Charset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="570" column="44" selection-start-line="570" selection-start-column="44" selection-end-line="570" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="127" column="16" selection-start-line="127" selection-start-column="16" selection-end-line="127" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/net.jar!/net/mindview/util/Print.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/AvailaleCharSets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/exercises/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/图解java多线程/exercises/chapter_1/习题1_1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_210_Course_Schedule_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm_4th/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm_4th/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/depth_first_search/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/ListIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm_4th/Bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/Cycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="68" column="14" lean-forward="true" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/In.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/Bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="44" column="23" lean-forward="true" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm_4th/chapter_4/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm_4th/chapter_4/DepthFirstSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm_4th/chapter_4/BreadthFirstPaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#423#432#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_207_Course_Schedule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1096,7 +1189,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>net</last-edited>
+          <last-edited>algs4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
