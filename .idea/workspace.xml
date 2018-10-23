@@ -2,76 +2,700 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72b4a7a1-8678-4838-9aa9-3c9425c553fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/graph/LC_765_Couples_Holding_Hands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_207_Course_Schedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_207_Course_Schedule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_210_Course_Schedule_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_210_Course_Schedule_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/active_object/ActivationQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/active_object/ActiveObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/active_object/ActiveObjectFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/active_object/DisplayClientThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/active_object/DisplayStringRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/active_object/FutureResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/active_object/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/active_object/MakeStringRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/active_object/MakerClientThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/active_object/MethodRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/active_object/Proxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/active_object/RealResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/active_object/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/active_object/SchedulerThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/active_object/Servant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/balking/ChangerThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/balking/Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/balking/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/balking/SaverThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/future/Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/future/FutureData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/future/Host$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/future/Host.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/future/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/future/RealData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/guardedSuspension/ClientThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/guardedSuspension/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/guardedSuspension/Request.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/guardedSuspension/RequestQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/guardedSuspension/ServerThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/immutable/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/immutable/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/immutable/PrintPersonThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/immutable/ReaderThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/immutable/WriterThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/producer_consumer/EaterThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/producer_consumer/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/producer_consumer/MakerThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/producer_consumer/Table.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/read_write_lock/Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/read_write_lock/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/read_write_lock/ReadWriteLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/read_write_lock/ReaderThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/read_write_lock/WriterThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/singleThreadedExecution/Gate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/singleThreadedExecution/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/singleThreadedExecution/UserThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/thread_per_message/Helper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/thread_per_message/Host$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/thread_per_message/Host.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/thread_per_message/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/thread_specific_storage/ClientThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/thread_specific_storage/Log.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/thread_specific_storage/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/thread_specific_storage/TSLog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/two_phase_termination/CountupThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/two_phase_termination/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/two_phase_termination/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/two_phase_termination/Main3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/two_phase_termination/Main3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/two_phase_termination/MyCyclicBarrierTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/two_phase_termination/MyTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/worker_thread/Channel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/worker_thread/ClientThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/worker_thread/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/worker_thread/Request.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/worker_thread/WorkerThread.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/book/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/book/java_concurrency_in_practice/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_4/FieldResolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_4/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_5/ClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/ThreadLocalVariableHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_12/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_12/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_12/VolatileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_12/VolatileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_13/AtomicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_13/AtomicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_13/Test_13_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_13/Test_13_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_2/DirectMemoryOOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_2/DirectMemoryOOM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_2/HeapOOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_2/HeapOOM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_2/JavaMethodAreaOOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_2/JavaMethodAreaOOM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_2/JavaVMStackOOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_2/JavaVMStackOOM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_2/JavaVMStackSOF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_2/JavaVMStackSOF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_2/RuntimeConstantPoolOOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_2/RuntimeConstantPoolOOM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_3/FinalizedEscapeGC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_3/FinalizedEscapeGC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_3/PretenureSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_3/PretenureSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_3/ReferenceCountingGC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_3/ReferenceCountingGC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_1/NotInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_1/NotInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_1/SubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_1/SubClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_1/SuperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_1/SuperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_3/ConstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_3/ConstClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_3/NotInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_3/NotInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nettyinaction/chapter_1/FutureExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/nettyinaction/chapter_1/FutureExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_18/a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/DirList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_18/section_18_1/DirList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/DirList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_18/section_18_1/DirList2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/DirList3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_18/section_18_1/DirList3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_1/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_18/section_18_1/Directory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/AvailaleCharSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_18/section_18_10/AvailaleCharSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/BufferToText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_18/section_18_10/BufferToText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/ChannelCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_18/section_18_10/ChannelCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/GetChannel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_18/section_18_10/GetChannel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_18/section_18_10/TransferTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_18/section_18_10/TransferTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/Semaphore/Fat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/Semaphore/Fat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/Semaphore/Pool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/Semaphore/Pool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/Semaphore/SemaphoreDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/Semaphore/SemaphoreDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/deadlock/Chopstick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/deadlock/Chopstick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/deadlock/DeadLokingDiningPhilosopher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/deadlock/DeadLokingDiningPhilosopher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/deadlock/FixedDiningPhilosophers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/deadlock/FixedDiningPhilosophers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/deadlock/Philosopher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/deadlock/Philosopher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/example/OrnamentalGarden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/example/OrnamentalGarden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/exersice/Exercise_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/exersice/Exercise_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/AtomicIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/AtomicIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/Atomicity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/Atomicity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/AtomicityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/AtomicityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/CountDownLatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/DelayQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/DelayQueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/GreenhouseScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/GreenhouseScheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/HorseRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/HorseRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/InterruptingIdiom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/InterruptingIdiom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/LiftOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/LiftOff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/NotifyVSNotifyAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/NotifyVSNotifyAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/OrnamentalGarden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/OrnamentalGarden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/PipedIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/PipedIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/PriorityBlockingQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/PriorityBlockingQueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/SerialNumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/SerialNumberChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/SerialNumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/SerialNumberGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/TestAccumulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/TestAccumulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/TestBlockingQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/TestBlockingQueues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/ThreadLocalVariableHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/ThreadLocalVariableHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/ThreadVariations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/ThreadVariations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/ToastMatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/ToastMatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/WaxOMatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/WaxOMatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thintkinginjava4/chapter_21/other/WaxOMatic2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/thintkinginjava4/chapter_21/other/WaxOMatic2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/GjjCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/GjjCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/ActivationQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/active_object/ActivationQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/ActiveObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/active_object/ActiveObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/ActiveObjectFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/active_object/ActiveObjectFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/DisplayClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/active_object/DisplayClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/DisplayStringRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/active_object/DisplayStringRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/FutureResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/active_object/FutureResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/active_object/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/MakeStringRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/active_object/MakeStringRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/MakerClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/active_object/MakerClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/MethodRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/active_object/MethodRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/active_object/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/RealResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/active_object/RealResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/active_object/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/SchedulerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/active_object/SchedulerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/active_object/Servant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/active_object/Servant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/balking/ChangerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/balking/ChangerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/balking/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/balking/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/balking/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/balking/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/balking/SaverThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/balking/SaverThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/future/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/future/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/future/FutureData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/future/FutureData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/future/Host.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/future/Host.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/future/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/future/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/future/RealData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/future/RealData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/guardedSuspension/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/guardedSuspension/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/guardedSuspension/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/guardedSuspension/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/guardedSuspension/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/guardedSuspension/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/guardedSuspension/RequestQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/guardedSuspension/RequestQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/guardedSuspension/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/guardedSuspension/ServerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/immutable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/immutable/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/immutable/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/immutable/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/immutable/PrintPersonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/immutable/PrintPersonThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/immutable/ReaderThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/immutable/ReaderThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/immutable/WriterThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/immutable/WriterThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/producer_consumer/EaterThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/producer_consumer/EaterThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/producer_consumer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/producer_consumer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/producer_consumer/MakerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/producer_consumer/MakerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/producer_consumer/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/producer_consumer/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/read_write_lock/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/read_write_lock/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/read_write_lock/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/read_write_lock/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/read_write_lock/ReadWriteLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/read_write_lock/ReadWriteLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/read_write_lock/ReaderThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/read_write_lock/ReaderThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/read_write_lock/WriterThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/read_write_lock/WriterThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/singleThreadedExecution/Gate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/singleThreadedExecution/Gate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/singleThreadedExecution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/singleThreadedExecution/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/singleThreadedExecution/UserThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/singleThreadedExecution/UserThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/thread_per_message/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/thread_per_message/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/thread_per_message/Host.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/thread_per_message/Host.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/thread_per_message/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/thread_per_message/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/thread_specific_storage/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/thread_specific_storage/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/thread_specific_storage/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/thread_specific_storage/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/thread_specific_storage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/thread_specific_storage/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/thread_specific_storage/TSLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/thread_specific_storage/TSLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/two_phase_termination/CountupThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/two_phase_termination/CountupThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/two_phase_termination/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/two_phase_termination/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/two_phase_termination/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/two_phase_termination/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/two_phase_termination/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/two_phase_termination/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/two_phase_termination/MyCyclicBarrierTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/two_phase_termination/MyCyclicBarrierTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/two_phase_termination/MyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/two_phase_termination/MyTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/worker_thread/Channel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/worker_thread/Channel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/worker_thread/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/worker_thread/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/worker_thread/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/worker_thread/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/worker_thread/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/worker_thread/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/example/worker_thread/WorkerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/example/worker_thread/WorkerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/exercises/chapter_1/习题1_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/exercises/chapter_1/习题1_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/exercises/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/exercises/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/图解java多线程/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/book/图解java多线程/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm_4th/Bag$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm_4th/Bag$ListIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm_4th/Bag$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm_4th/Bag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm_4th/chapter_4/BreadthFirstPaths.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm_4th/chapter_4/DepthFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm_4th/chapter_4/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm_4th/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/a/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/interview/MultiTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/interview/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/interview/TreeTravel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/ita/chapter_4/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/ita/chapter_4/heapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/ita/chapter_4/qsort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/ita/chapter_4/quickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/jianzhi/JumpFloor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/jianzhi/JumpFloorII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/jianzhi/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/jianzhi/Multiply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/jianzhi/NO_19_Mirror.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/jianzhi/NO_39_TreeDepth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/jianzhi/NO_47_Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/jianzhi/NO_4_ReplaceSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/jianzhi/NO_6_ReConstructBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/jianzhi/PrintListFromTailToHead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/jianzhi/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_118_Pascals_Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_119_Pascals_Triangle_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_11_Container_With_Most_Water.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_121_Best_Time_to_Buy_and_Sell_Stock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_122_Best_Time_to_Buy_and_Sell_Stock_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_136_Single_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_162_Find_Peak_Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_167_Two_Sum_II_Input_array_is_sorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_169_Majority_Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_189_Rotate_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_198_House_Robber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_1_Two_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_207_Course_Schedule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_210_Course_Schedule_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_217_Contains_Duplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_219_Contains_Duplicate_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_238_Product_of_Array_Except_Self.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_260_Single_Number_III.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_268_Missing_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_26_Remove_Duplicates_from_Sorted_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_278_First_Bad_Version.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_27_Remove_Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_283_Move_Zeroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_35_Search_Insert_Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_371_Sum_of_Two_Integers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_40_Combination_Sum_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_41_First_Missing_Positive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_442_Find_All_Duplicates_in_an_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_448_Find_All_Numbers_Disappeared_in_an_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_485_Max_Consecutive_Ones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_495_Teemo_Attacking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_532_K_diff_Pairs_in_an_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_53_Maximum_Subarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_561_Array_Partition_I.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_566_Reshape_the_Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_581_Shortest_Unsorted_Continuous_Subarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_62_Unique_Paths.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_66_Plus_One.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_674_Longest_Continuous_Increasing_Subsequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_67_Add_Binary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_695_Max_Area_of_Island.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_746_Min_Cost_Climbing_Stairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_747_Largest_Number_At_Least_Twice_of_Others.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_766_Toeplitz_Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_832_Flipping_an_Image.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_867_Transpose_Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_88_Merge_Sorted_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/LC_905_Sort_Array_By_Parity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/array/PrintArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/breadth_first_search/LC_45_Jump_Game_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/depth_first_search/LC_338_Counting_Bits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/depth_first_search/LC_515_Find_Largest_Value_in_Each_Tree_Row.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/depth_first_search/LC_559_Maximum_Depth_of_N_ary_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/depth_first_search/LC_841_Keys_and_Rooms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/depth_first_search/LC_872_Leaf_Similar_Trees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/depth_first_search/LC_897_Increasing_Order_Search_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/depth_first_search/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/depth_first_search/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/graph/LC_765_Couples_Holding_Hands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_109_Convert_Sorted_List_to_Binary_Search_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_141_Linked_List_Cycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_142_Linked_List_Cycle_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_147_Insertion_Sort_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_148_Sort_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_19_Remove_Nth_Node_From_End_of_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_203_Remove_Linked_List_Elements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_206_Reverse_Linked_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_21_Merge_Two_Sorted_Lists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_234_Palindrome_Linked_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_237_Delete_Node_in_a_Linked_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_24_Swap_Nodes_in_Pairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_2_Add_Two_Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_328_Odd_Even_Linked_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_445_Add_Two_Numbers_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_60_Intersection_of_Two_Linked_Lists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_61_Rotate_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_82_Remove_Duplicates_from_Sorted_List_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_83_Remove_Duplicates_from_Sorted_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_86_Partition_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_876_Middle_of_the_Linked_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/LC_92_Reverse_Linked_List_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/L_23_Merge_k_Sorted_Lists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/list/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/math/LC_190_Reverse_Bits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/math/LC_191_Number_of_1_Bits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/math/LC_231_Power_of_Two.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/math/LC_326_Power_of_Three.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/math/LC_342_Power_of_Four.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/math/LC_405_Convert_a_Number_to_Hexadecimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/math/LC_461_Hamming_Distance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/math/LC_507_Perfect_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/math/LC_693_Binary_Number_with_Alternating_Bits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/math/LC_728_Self_Dividing_Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/math/LC_7_Reverse_Integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/math/LC_9_Palindrome_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/sort/LC_349_Intersection_of_Two_Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/string/LC_125_Valid_Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/string/LC_344_Reverse_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/string/LC_345_Reverse_Vowels_of_a_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/string/LC_389_Find_the_Difference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/string/LC_392_Is_Subsequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/string/LC_412_Fizz_Buzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/string/LC_415_Add_Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/string/LC_520_Detect_Capital.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/string/LC_541_Reverse_String_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/string/LC_557_Reverse_Words_in_a_String_III.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/string/LC_680_Valid_Palindrome_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/string/LC_709_To_Lower_Case.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/string/LC_76_Minimum_Window_Substring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/string/LC_771_Jewels_and_Stones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_100_Same_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_104_Maximum_Depth_of_Binary_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_136_Single_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_169_Majority_Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_215_Kth_Largest_Element_in_an_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_226_Invert_Binary_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_229_Majority_Element_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_240_Search_a_2D_Matrix_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_283_Move_Zeroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_287_Find_the_Duplicate_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_337_House_Robber_III.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_338_Counting_Bits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_347_Top_K_Frequent_Elements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_39_Combination_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_414_Third_Maximum_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_448_Find_All_Numbers_Disappeared_in_an_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_461_Hamming_Distance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_46_Permutations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_48_Rotate_Image.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_538_Convert_BST_to_Greater_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_543_Diameter_of_Binary_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_55_Jump_Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_617_Merge_Two_Binary_Trees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_645_Set_Mismatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_64_Minimum_Path_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_74_Search_a_2D_Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_78_Subsets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/LC_94_Binary_Tree_Inorder_Traversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/top100/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/CL_173_Binary_Search_Tree_Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_100_Same_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_101_Symmetric_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_102_Binary_Tree_Level_Order_Traversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_103_Binary_Tree_Zigzag_Level_Order_Traversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_104_Maximum_Depth_of_Binary_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_107_Binary_Tree_Level_Order_Traversal_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_108_Convert_Sorted_Array_to_Binary_Search_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_110_Balanced_Binary_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_111_Minimum_Depth_of_Binary_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_112_Path_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_113_Path_Sum_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_114_Flatten_Binary_Tree_to_Linked_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_116_Populating_Next_Right_Pointers_in_Each_Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_129_Sum_Root_to_Leaf_Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_144_Binary_Tree_Preorder_Traversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_145_Binary_Tree_Postorder_Traversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_199_Binary_Tree_Right_Side_View.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_226_Invert_Binary_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_230_Kth_Smallest_Element_in_a_BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_257_Binary_Tree_Paths.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_404_Sum_of_Left_Leaves.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_437_Path_Sum_III.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_450_Delete_Node_in_a_BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_501_Find_Mode_in_Binary_Search_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_508_Most_Frequent_Subtree_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_513_Find_Bottom_Left_Tree_Value.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_515_Find_Largest_Value_in_Each_Tree_Row.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_538_Convert_BST_to_Greater_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_543_Diameter_of_Binary_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_563_Binary_Tree_Tilt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_572_Subtree_of_Another_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_606_Construct_String_from_Binary_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_617_Merge_Two_Binary_Trees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_623_Add_One_Row_to_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_637_Average_of_Levels_in_Binary_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_652_Find_Duplicate_Subtrees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_653_Two_Sum_IV_Input_is_a_BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_654_Maximum_Binary_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_669_Trim_a_BinarySearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_671_Second_Minimum_Node_In_a_Binary_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_700_Search_in_a_Binary_Search_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_783_Minimum_Distance_Between_BST_Nodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_814_Binary_Tree_Pruning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_865_Smallest_Subtree_with_all_the_Deepest_Nodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/LC_94_Binary_Tree_Inorder_Traversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/PrintTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/TreeLinkNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithms/leetcode/tree/solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/a/AbstractChild.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/a/AbstractTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/a/CountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/a/InterfaceChild.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/a/InterfaceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/a/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/a/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/client/BytesHexStrTranslate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/client/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/client/Client$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/client/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/client/HelloClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/client/Server$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/client/Server$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/client/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/client/ServerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo/DiscardServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo/DiscardServer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo/DiscardServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo/DiscardServerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo/TimeClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo/TimeClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo/TimeClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo/TimeServerHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo/TimeServerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo2/Clent4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo2/Clent4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo2/ClientHandler4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo2/Server4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo2/Server4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo2/ServerHandler4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo3/ClientDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo3/ClientDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo3/HttpClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/netty/demo4/HTTPUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_12/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_12/VolatileTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_12/VolatileTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_13/AtomicTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_13/AtomicTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_13/Test_13_2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_13/Test_13_2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_13/Test_13_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/DirectMemoryOOM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/HeapOOM$OOMObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/HeapOOM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaMethodAreaOOM$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaMethodAreaOOM$OOMObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaMethodAreaOOM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaVMStackOOM$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaVMStackOOM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/JavaVMStackSOF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_2/RuntimeConstantPoolOOM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_3/FinalizedEscapeGC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_3/PretenureSize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_3/ReferenceCountingGC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_4/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_4/Test$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_4/Test$OOMObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_4/Test$SynAddRunable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_4/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_7/example_7_1/NotInitialization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_7/example_7_1/SubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_7/example_7_1/SuperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_7/example_7_3/ConstClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/chapter_7/example_7_3/NotInitialization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nettyinaction/chapter_1/FutureExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Book2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Grandpa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/InitializationDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/InitializationDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/section_18_1/DirFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/section_18_1/DirList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/section_18_1/DirList2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/section_18_1/DirList2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/section_18_1/DirList3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/section_18_1/DirList3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/section_18_1/Directory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/section_18_1/Directory$TreeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/section_18_1/Directory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/section_18_10/AvailaleCharSets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/section_18_10/BufferToText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/section_18_10/ChannelCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/section_18_10/GetChannel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_18/section_18_10/TransferTo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/Semaphore/CheckoutTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/Semaphore/Fat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/Semaphore/Pool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/Semaphore/SemaphoreDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/Semaphore/SemaphoreDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/deadlock/Chopstick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/deadlock/DeadLokingDiningPhilosopher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/deadlock/FixedDiningPhilosophers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/deadlock/Philosopher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/example/Count.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/example/Entrance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/example/OrnamentalGarden.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Atomicity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/CircularSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Daemon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/DaemonSpawn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_13$SerialChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_14$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_15$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_15$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_15$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_15$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_15$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_15$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_16$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_16$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_16$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_16$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_16$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_16$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Exercise_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/PriorityThreadFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/RadCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/Sensor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/SerialNumberGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/SimplePriorities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/SimpleThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/SynTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/SynTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/SynTestA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/exersice/SynTestB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Accessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/AtomicIntegerTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/AtomicIntegerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Atomicity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/AtomicityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Blocked3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Blocker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Butterer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Car2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Chef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/CircularSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Count.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/CountDownLatchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/DelayQueueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/DelayedTask$EndSentinel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/DelayedTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/DelayedTaskConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Eater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Entrance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/GreenhouseScheduler$Bell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/GreenhouseScheduler$CollectData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/GreenhouseScheduler$DataPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/GreenhouseScheduler$LightOff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/GreenhouseScheduler$LightOn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/GreenhouseScheduler$Terminate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/GreenhouseScheduler$Terminate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/GreenhouseScheduler$ThermostatDay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/GreenhouseScheduler$ThermostatNight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/GreenhouseScheduler$WaterOff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/GreenhouseScheduler$WaterOn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/GreenhouseScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/HorseRace$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/HorseRace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/InnerRunnable1$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/InnerRunnable1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/InnerRunnable2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/InnerRunnable2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/InnerThread1$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/InnerThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/InnerThread2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/InnerThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/InterruptingIdiom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Jammer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/LiftOff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/LiftOffRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Meal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/NeedsCleanup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/NotifyVSNotifyAll$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/NotifyVSNotifyAll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/OrnamentalGarden.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/PipedIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/PrioritizedTask$EndSentinel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/PrioritizedTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/PrioritizedTaskConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/PrioritizedTaskProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/PriorityBlockingQueueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Receiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Restaurant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Sender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/SerialNumberChecker$SerialChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/SerialNumberChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/SerialNumberGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/TaskPortion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Test$MyRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Test3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/TestAccumulator$Accumulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/TestAccumulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/TestBlockingQueues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/ThreadLocalVariableHolder$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/ThreadLocalVariableHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/ThreadMethod$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/ThreadMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/ThreadVariations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Toast$Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Toast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/ToastMatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/ToastQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/Toaster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/WaitPerson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/WaitingTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/WaxOMatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/WaxOMatic2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/WaxOff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/WaxOff2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/WaxOn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thintkinginjava4/chapter_21/other/WaxOn2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/GjjCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/active_object/ActivationQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/active_object/ActiveObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/active_object/ActiveObjectFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/active_object/DisplayClientThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/active_object/DisplayStringRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/active_object/FutureResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/active_object/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/active_object/MakeStringRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/active_object/MakerClientThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/active_object/MethodRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/active_object/Proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/active_object/RealResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/active_object/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/active_object/SchedulerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/active_object/Servant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/balking/ChangerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/balking/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/balking/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/balking/SaverThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/future/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/future/FutureData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/future/Host$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/future/Host.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/future/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/future/RealData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/guardedSuspension/ClientThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/guardedSuspension/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/guardedSuspension/Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/guardedSuspension/RequestQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/guardedSuspension/ServerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/immutable/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/immutable/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/immutable/PrintPersonThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/immutable/ReaderThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/immutable/WriterThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/producer_consumer/EaterThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/producer_consumer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/producer_consumer/MakerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/producer_consumer/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/read_write_lock/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/read_write_lock/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/read_write_lock/ReadWriteLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/read_write_lock/ReaderThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/read_write_lock/WriterThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/singleThreadedExecution/Gate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/singleThreadedExecution/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/singleThreadedExecution/UserThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/thread_per_message/Helper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/thread_per_message/Host$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/thread_per_message/Host.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/thread_per_message/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/thread_specific_storage/ClientThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/thread_specific_storage/Log.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/thread_specific_storage/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/thread_specific_storage/TSLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/two_phase_termination/CountupThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/two_phase_termination/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/two_phase_termination/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/two_phase_termination/Main3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/two_phase_termination/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/two_phase_termination/MyCyclicBarrierTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/two_phase_termination/MyTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/worker_thread/Channel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/worker_thread/ClientThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/worker_thread/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/worker_thread/Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/example/worker_thread/WorkerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/exercises/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/test$Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/图解java多线程/test.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,31 +708,35 @@
     <session id="-163356409">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2522" />
+          <entry key="java" value="3640" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2522" />
+          <entry key="JAVA" value="3640" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
     </session>
@@ -116,79 +744,106 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithm_4th/chapter_4/Graph.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/string/LC_557_Reverse_Words_in_a_String_III.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#709#710#0" expanded="true" />
-                <element signature="e#729#730#0" expanded="true" />
-                <element signature="e#753#754#0" expanded="true" />
-                <element signature="e#900#901#0" expanded="true" />
-                <element signature="e#929#930#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_207_Course_Schedule.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/book/a.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_210_Course_Schedule_II.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/book/图解java多线程/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/book/图解java多线程/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/book/java_concurrency_in_practice/a.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/graph/LC_765_Couples_Holding_Hands.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test/ThreadLocalVariableHolder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="555">
+              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#609#610#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/PrintArray.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="1200">
+              <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/Queue.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/In.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+            <state relative-caret-position="1950">
+              <caret line="187" column="30" selection-start-line="187" selection-start-column="30" selection-end-line="187" selection-end-column="30" />
+              <folding>
+                <element signature="e#12720#12721#0" expanded="true" />
+                <element signature="e#12790#12791#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_4/Parent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -211,6 +866,15 @@
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_207_Course_Schedule.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/array/LC_210_Course_Schedule_II.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode/graph/LC_765_Couples_Holding_Hands.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_4/FieldResolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_5/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_5/Parent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_5/ClassLoaderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_5/ClassLoaderTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/book/java_concurrency_in_practice/chapter_4/example_4_4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/book/a.java" />
+        <option value="$PROJECT_DIR$/src/main/java/book/java_concurrency_in_practice/a.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/ThreadLocalVariableHolder.java" />
       </list>
     </option>
   </component>
@@ -228,7 +892,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="300" />
+    <option name="x" value="251" />
     <option name="y" value="23" />
     <option name="width" value="1334" />
     <option name="height" value="976" />
@@ -241,8 +905,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,7 +936,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
@@ -282,8 +944,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+              <item name="java_concurrency_in_practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+              <item name="图解java多线程" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
@@ -299,13 +970,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538992728972" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540262111395" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -319,20 +992,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC_765_Couples_Holding_Hands">
+  <component name="RunManager" selected="Application.ThreadLocalVariableHolder">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AvailaleCharSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thintkinginjava4.chapter_18.section_18_10.AvailaleCharSets" />
+    <configuration name="ClassLoaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book.jvm.chapter_7.example_7_5.ClassLoaderTest" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thintkinginjava4.chapter_18.section_18_10.*" />
+          <option name="PATTERN" value="book.jvm.chapter_7.example_7_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,13 +1013,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferToText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thintkinginjava4.chapter_18.section_18_10.BufferToText" />
+    <configuration name="Parent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book.jvm.chapter_7.example_7_4.Parent" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thintkinginjava4.chapter_18.section_18_10.*" />
+          <option name="PATTERN" value="book.jvm.chapter_7.example_7_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,41 +1027,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_207_Course_Schedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.leetcode.array.LC_207_Course_Schedule" />
+    <configuration name="ThreadLocalVariableHolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ThreadLocalVariableHolder" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.leetcode.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC_210_Course_Schedule_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.leetcode.array.LC_210_Course_Schedule_II" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithms.leetcode.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC_765_Couples_Holding_Hands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.leetcode.graph.LC_765_Couples_Holding_Hands" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithms.leetcode.graph.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -398,6 +1043,34 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book.java_concurrency_in_practice.a" />
+      <module name="practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="book.java_concurrency_in_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book.a" />
+      <module name="practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="book.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -426,19 +1099,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BufferToText" />
-      <item itemvalue="Application.AvailaleCharSets" />
-      <item itemvalue="Application.LC_207_Course_Schedule" />
-      <item itemvalue="Application.LC_210_Course_Schedule_II" />
-      <item itemvalue="Application.LC_765_Couples_Holding_Hands" />
+      <item itemvalue="Application.Parent" />
+      <item itemvalue="Application.ClassLoaderTest" />
+      <item itemvalue="Application.a" />
+      <item itemvalue="Application.a (1)" />
+      <item itemvalue="Application.ThreadLocalVariableHolder" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LC_765_Couples_Holding_Hands" />
-        <item itemvalue="Application.LC_210_Course_Schedule_II" />
-        <item itemvalue="Application.LC_207_Course_Schedule" />
-        <item itemvalue="Application.AvailaleCharSets" />
-        <item itemvalue="Application.BufferToText" />
+        <item itemvalue="Application.ThreadLocalVariableHolder" />
+        <item itemvalue="Application.a (1)" />
+        <item itemvalue="Application.a" />
+        <item itemvalue="Application.ClassLoaderTest" />
+        <item itemvalue="Application.Parent" />
       </list>
     </recent_temporary>
   </component>
@@ -467,18 +1140,21 @@
       <workItem from="1537351979355" duration="28979000" />
       <workItem from="1538046627830" duration="6005000" />
       <workItem from="1538663954960" duration="68000" />
-      <workItem from="1538982334055" duration="4762000" />
+      <workItem from="1538982334055" duration="13707000" />
+      <workItem from="1539920516159" duration="2153000" />
+      <workItem from="1540191699653" duration="1046000" />
+      <workItem from="1540263552686" duration="599000" />
+      <workItem from="1540264199039" duration="1075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16885000" />
+    <option name="totallyTimeSpent" value="30703000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="300" y="23" width="1334" height="976" extended-state="0" />
-    <editor active="true" />
+    <frame x="251" y="23" width="1334" height="976" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18730651" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19814241" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -487,8 +1163,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329849" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25667828" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.329849" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17189315" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.329849" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329849" />
@@ -509,33 +1185,35 @@
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32986832" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24126726" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18730651" />
       <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.1859155" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329849" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25667828" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.329849" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32957748" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32889965" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329849" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4996535" weight="0.32752612" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003465" side_tool="true" weight="0.32752612" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32752612" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329849" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.329849" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32986832" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,6 +1221,18 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
+          <line>107</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/Bag.java">
@@ -570,15 +1260,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#729#730#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-            <element signature="e#900#901#0" expanded="true" />
-            <element signature="e#929#930#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -586,9 +1267,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -617,16 +1295,142 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="503">
           <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/graph/LC_765_Couples_Holding_Hands.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_1/SuperClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_1/SubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_1/NotInitialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_4/FieldResolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter_7/example_7_5/ClassLoaderTest2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/book/java_concurrency_in_practice/chapter_4/example_4_4.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_4/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_5/ClassLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode/string/LC_557_Reverse_Words_in_a_String_III.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/book/a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/book/图解java多线程/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/book/图解java多线程/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/book/java_concurrency_in_practice/a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="187" column="30" selection-start-line="187" selection-start-column="30" selection-end-line="187" selection-end-column="30" />
+          <folding>
+            <element signature="e#12720#12721#0" expanded="true" />
+            <element signature="e#12790#12791#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/book/jvm/chapter_7/example_7_4/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/ThreadLocalVariableHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
