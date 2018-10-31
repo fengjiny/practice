@@ -1,13 +1,14 @@
 package test;
 
-import java.util.concurrent.Executors;
-import java.util.concurrent.ScheduledExecutorService;
-import java.util.concurrent.ScheduledFuture;
-import java.util.concurrent.TimeUnit;
+import java.util.HashMap;
+import java.util.Hashtable;
+import java.util.TreeMap;
+import java.util.concurrent.*;
+
 
 public class Test {
     public static void main(String[] args) {
-        test1();
+        test2();
     }
 
     public static void test1() {
@@ -20,5 +21,18 @@ public class Test {
                     }
                 }, 60, TimeUnit.SECONDS);
         executor.shutdown();
+    }
+
+
+    public static void test2() {
+        Hashtable hashtable = new Hashtable();
+        HashMap hashMap = new HashMap();
+        ConcurrentHashMap concurrentHashMap = new ConcurrentHashMap();
+        TreeMap treeMap = new TreeMap();
+
+        hashtable.put(null, null);
+        hashMap.put(null, null);
+        concurrentHashMap.put(null, null);
+        treeMap.put(null, null);
     }
 }
