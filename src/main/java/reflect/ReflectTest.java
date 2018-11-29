@@ -4,7 +4,7 @@ package reflect;
  * Java反射创建实例的三种方式
  */
 public class ReflectTest {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         Person p1 = new Person();
         Person p2 = new Person();
 
@@ -31,6 +31,9 @@ public class ReflectTest {
         }
 
         System.out.println(class1 == class4);
+
+        Person person = (Person) class1.newInstance();
+        System.out.println(person);
 
     }
 }
