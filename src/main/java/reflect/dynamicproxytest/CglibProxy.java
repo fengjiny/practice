@@ -37,5 +37,6 @@ public class CglibProxy implements MethodInterceptor {
         CglibProxy cglib = new CglibProxy();
         UserManager user = (UserManager) cglib.getCglibProxy(new UserManagerImpl());
         user.delete("李四");
+        user.add("王五", "123");
     }
 }

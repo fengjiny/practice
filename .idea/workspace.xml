@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72b4a7a1-8678-4838-9aa9-3c9425c553fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/reflect/classloadtest/ClassLoaderAndForNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reflect/classloadtest/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reflect/classloadtest/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/CglibProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/JdkProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/UserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/UserManagerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reflect/ReflectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reflect/ReflectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/reflect/ReflectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/reflect/ReflectTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/UserManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/UserManagerImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,12 +16,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="21" />
-          <entry key="java" value="7320" />
+          <entry key="java" value="7348" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7320" />
+          <entry key="JAVA" value="7348" />
           <entry key="PLAIN_TEXT" value="21" />
         </counts>
       </usages-collector>
@@ -100,8 +91,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/UserManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="45">
+              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -109,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/UserManagerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+            <state relative-caret-position="135">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
               <folding>
                 <element signature="e#308#309#0" expanded="true" />
                 <element signature="e#344#345#0" expanded="true" />
@@ -122,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/JdkProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,8 +125,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/CglibProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="388">
+              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -214,10 +205,10 @@
         <option value="$PROJECT_DIR$/src/main/java/reflect/classloadtest/Point.java" />
         <option value="$PROJECT_DIR$/src/main/java/reflect/classloadtest/Line.java" />
         <option value="$PROJECT_DIR$/src/main/java/reflect/classloadtest/ClassLoaderAndForNameTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/CglibProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/JdkProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/UserManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/UserManagerImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/JdkProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/CglibProxy.java" />
       </list>
     </option>
   </component>
@@ -302,7 +293,7 @@
     <property name="SearchEverywhereHistoryKey" value="concurr&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Hashmap&#9;PSI&#9;JAVA://java.util.HashMap.HashMapSpliterator&#10;concurrentH&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;ConcurrentHash&#9;null&#9;null&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543491065481" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543491620759" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -487,12 +478,12 @@
       <workItem from="1542798908183" duration="1896000" />
       <workItem from="1543301488075" duration="11000" />
       <workItem from="1543301759729" duration="283000" />
-      <workItem from="1543462113348" duration="6043000" />
+      <workItem from="1543462113348" duration="6543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66151000" />
+    <option name="totallyTimeSpent" value="66651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="250" y="23" width="1334" height="976" extended-state="0" />
@@ -507,12 +498,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329849" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31707317" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31707317" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41695702" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329849" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4996535" weight="0.32752612" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4996535" visible="true" weight="0.32752612" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003465" side_tool="true" weight="0.32752612" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32752612" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.329849" />
@@ -948,17 +939,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/JdkProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/UserManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        <state relative-caret-position="45">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/UserManagerImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        <state relative-caret-position="135">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding>
             <element signature="e#308#309#0" expanded="true" />
             <element signature="e#344#345#0" expanded="true" />
@@ -966,20 +967,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/JdkProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/reflect/dynamicproxytest/CglibProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="388">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

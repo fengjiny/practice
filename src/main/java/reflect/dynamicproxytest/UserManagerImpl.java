@@ -7,7 +7,7 @@ public class UserManagerImpl implements UserManager {
     }
 
     @Override
-    public void delete(String userName) {
+    public final void delete(String userName) {
         System.out.println("delete(), userName: " + userName);
     }
 }
