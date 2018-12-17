@@ -2,10 +2,10 @@ package algorithms.leetcode.tree;
 
 import java.util.Stack;
 
-public class CL_173_Binary_Search_Tree_Iterator {
+public class LC_173_Binary_Search_Tree_Iterator {
     private Stack<TreeNode> stack = new Stack<>();
 
-    public CL_173_Binary_Search_Tree_Iterator(TreeNode root) {
+    public LC_173_Binary_Search_Tree_Iterator(TreeNode root) {
         pushAll(root);
     }
 
