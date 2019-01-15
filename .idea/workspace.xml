@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72b4a7a1-8678-4838-9aa9-3c9425c553fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_21_Merge_Two_Sorted_Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_24_Swap_Nodes_in_Pairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_83_Remove_Duplicates_from_Sorted_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_86_Partition_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_203_Remove_Linked_List_Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_234_Palindrome_Linked_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_25_Reverse_Nodes_in_k_Group.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,96 +13,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_92_Reverse_Linked_List_II.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_2_Add_Two_Numbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_21_Merge_Two_Sorted_Lists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_24_Swap_Nodes_in_Pairs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_83_Remove_Duplicates_from_Sorted_List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="17" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_86_Partition_List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_142_Linked_List_Cycle_II.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -128,9 +35,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/array/LC_78_Subsets.java" />
-        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/array/LC_287_Find_the_Duplicate_Number.java" />
-        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/array/LC_48_Rotate_Image.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/array/LC_62_Unique_Paths.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/array/LC_64_Minimum_Path_Sum.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/array/LC_121_Best_Time_to_Buy_and_Sell_StocK.java" />
@@ -179,6 +83,9 @@
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_83_Remove_Duplicates_from_Sorted_List.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_86_Partition_List.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_203_Remove_Linked_List_Elements.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_234_Palindrome_Linked_List.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_25_Reverse_Nodes_in_k_Group.java" />
       </list>
     </option>
   </component>
@@ -190,7 +97,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="187" />
+    <option name="x" value="114" />
     <option name="y" value="23" />
     <option name="width" value="1493" />
     <option name="height" value="976" />
@@ -254,6 +161,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode_20181226" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_20181226" type="462c0819:PsiDirectoryNode" />
               <item name="string" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -288,7 +205,7 @@
     <property name="SearchEverywhereHistoryKey" value="hashmap&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;concurr&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Hashmap&#9;PSI&#9;JAVA://java.util.HashMap.HashMapSpliterator&#10;concurrentH&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;ConcurrentHash&#9;null&#9;null&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547191263796" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547204132144" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -413,10 +330,10 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.LC_131_Palindrome_Partitioning" />
       <item itemvalue="Application.LC_448_Find_All_Numbers_Disappeared_in_an_Array" />
       <item itemvalue="Application.LC_78_Subsets" />
-      <item itemvalue="Application.LC_131_Palindrome_Partitioning" />
+      <item itemvalue="Application.Test" />
       <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
@@ -486,18 +403,17 @@
       <workItem from="1546827545241" duration="517000" />
       <workItem from="1546843864779" duration="327000" />
       <workItem from="1546844224291" duration="111000" />
-      <workItem from="1546844372202" duration="4043000" />
+      <workItem from="1546844372202" duration="8306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133404000" />
+    <option name="totallyTimeSpent" value="137667000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="187" y="23" width="1493" height="976" extended-state="0" />
-    <editor active="true" />
+    <frame x="114" y="23" width="1493" height="976" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21709166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21709166" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -507,11 +423,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329849" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31707317" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3321719" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3321719" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329849" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4996535" weight="0.32752612" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4996535" visible="true" weight="0.32752612" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003465" side_tool="true" weight="0.32752612" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32752612" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.329849" />
@@ -589,27 +505,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/array/LC_62_Unique_Paths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/array/LC_64_Minimum_Path_Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/array/LC_905_Sort_Array_By_Parity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/array/LC_832_Flipping_an_Image.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -820,13 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/string/LC_131_Palindrome_Partitioning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -918,6 +806,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_86_Partition_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/string/LC_131_Palindrome_Partitioning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_203_Remove_Linked_List_Elements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_234_Palindrome_Linked_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_25_Reverse_Nodes_in_k_Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_142_Linked_List_Cycle_II.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -929,20 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/linkedlist/LC_86_Partition_List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/leetcode_20181226/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
         </state>
       </provider>
     </entry>
