@@ -9,7 +9,7 @@ public class LC_173_Binary_Search_Tree_Iterator {
         pushAll(root);
     }
 
-    /** @return whether we have a next smallest number */
+    /** @return whether we have Main next smallest number */
     public boolean hasNext() {
         return !stack.isEmpty();
     }
