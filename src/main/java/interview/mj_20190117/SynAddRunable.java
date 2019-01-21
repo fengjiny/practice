@@ -1,4 +1,4 @@
-package MJ_20190117;
+package interview.mj_20190117;
 
 public class SynAddRunable implements Runnable {
     int a, b;

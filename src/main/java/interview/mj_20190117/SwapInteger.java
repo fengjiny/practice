@@ -1,4 +1,4 @@
-package MJ_20190117;
+package interview.mj_20190117;
 
 import java.lang.reflect.Field;
 
