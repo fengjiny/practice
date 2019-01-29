@@ -1,4 +1,4 @@
-package algorithms.interview;
+package interview;
 
 public class ReverseString {
     public static void main(String[] args) {
