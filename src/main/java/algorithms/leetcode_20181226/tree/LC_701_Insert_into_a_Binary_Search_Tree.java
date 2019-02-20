@@ -1,6 +1,6 @@
 package algorithms.leetcode_20181226.tree;
 
-public class LC701_Insert_into_a_Binary_Search_Tree {
+public class LC_701_Insert_into_a_Binary_Search_Tree {
     public TreeNode insertIntoBST(TreeNode root, int val) {
         if (root == null) return null;
         TreeNode cur = root;
