@@ -4,7 +4,7 @@ public class LC_129_Sum_Root_to_Leaf_Numbers {
     int sum = 0;
     public int sumNumbers(TreeNode root) {
         if (root == null) return 0;
-        helper(root, root.val);
+        helper(root, 0);
         return sum;
     }
     private void helper(TreeNode root, int pre) {
