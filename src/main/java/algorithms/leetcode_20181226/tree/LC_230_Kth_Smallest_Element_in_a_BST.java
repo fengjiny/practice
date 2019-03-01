@@ -15,7 +15,4 @@ public class LC_230_Kth_Smallest_Element_in_a_BST {
         if (root == null) return 0;
         return 1 + countNodes(root.left) + countNodes(root.right);
     }
-
-
-
 }
