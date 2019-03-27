@@ -1,23 +1,24 @@
 package algorithms.leetcode_20181226.string;
 
 public class LC_5_Longest_Palindromic_Substring {
-    int index;
+    int index, maxLen;
     public String longestPalindrome(String s) {
-        String res = null;
-        int max = 0;
-        for (int i = 0, j = 0; j < s.length(); ++j) {
-            if (s.charAt(i) == s.charAt(j) && isPalindrome(s, i, j)) {
-
-                max = j - i;
-                res = s.substring(i, j);
-            }
+        int len = s.length();
+        if (len < 2) return s;
+        for (int i = 0; i < s.length(); ++i) {
+            extendPalindromic(s, i, i);
+            extendPalindromic(s, i, i + 1);
         }
-        return res;
+        return s.substring(index, index + maxLen);
     }
-    private boolean isPalindrome(String s, int i, int j) {
-        while (i < j) {
-            if (s.charAt(i++) != s.charAt(j--)) return false;
+    private void extendPalindromic(String s, int i, int j) {
+        while(i >= 0 && j < s.length() && s.charAt(i) == s.charAt(j)) {
+            i--;
+            j++;
         }
-        return true;
+        if (maxLen < j - i - 1) {
+            index = i + 1;
+            maxLen = j - i - 1;
+        }
     }
 }
