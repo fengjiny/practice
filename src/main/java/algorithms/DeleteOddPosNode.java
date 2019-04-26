@@ -25,7 +25,7 @@ public class DeleteOddPosNode {
 
     public static void main(String[] args) {
         ListNode head = Utils.createList(new int[] {1,2,3,4,5,6,7});
-//        ListNode newHead = new DeleteOddPosNode().deleteOdd(head);
+//        interview.ListNode newHead = new DeleteOddPosNode().deleteOdd(head);
         ListNode newHead2 = new DeleteOddPosNode().deleteEven(head);
 //        Utils.printList(newHead);
         Utils.printList(newHead2);

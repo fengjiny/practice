@@ -1,5 +1,7 @@
 package algorithms.jianzhi;
 
+import algorithms.ListNode;
+
 import java.util.ArrayList;
 
 public class PrintListFromTailToHead {
