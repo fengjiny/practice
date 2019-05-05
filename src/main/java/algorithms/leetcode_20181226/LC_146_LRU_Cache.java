@@ -39,7 +39,7 @@ public class LC_146_LRU_Cache {
             newNode.key = key;
             newNode.val = value;
 
-            moveToHead(newNode);
+            add(newNode);
             cache.put(key, newNode);
             ++count;
             if (count > capacity) {
