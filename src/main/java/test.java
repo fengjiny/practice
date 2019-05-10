@@ -5,6 +5,9 @@ public class test {
         for (int i : nums) {
             System.out.print(i);
         }
+        double d = 0;
+        System.out.println();
+        System.out.println(d);
     }
     private static void amount(double htPrice) {
         int ht = 10283;

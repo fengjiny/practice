@@ -2,7 +2,7 @@ package algorithms.leetcode_20181226;
 
 public class GenarateClassName {
     public static void main(String[] args) {
-        String origin = "4. Median of Two Sorted Arrays";
+        String origin = "220. Contains Duplicate III";
         String className = new GenarateClassName().generateName(origin);
         System.out.println(className);
     }
