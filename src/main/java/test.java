@@ -1,13 +1,42 @@
+import algorithms.Utils;
+
+import java.util.*;
+
 public class test {
     public static void main(String[] args) {
-        int[] nums = {2,1,3,4,5,9,8,7};
-        qsort(nums, 0, nums.length - 1);
-        for (int i : nums) {
-            System.out.print(i);
-        }
-        double d = 0;
-        System.out.println();
-        System.out.println(d);
+//        int[] nums = {2,1,3,4,5,9,8,7};
+//        qsort(nums, 0, nums.length - 1);
+//        for (int i : nums) {
+//            System.out.print(i);
+//        }
+//        System.out.println();
+//
+//
+//        double d = 123.111;
+//        System.out.println(d);
+//        long l = Math.round(d);
+//        System.out.println(l);
+//
+
+//        Map<String, String > map = new HashMap();
+//        map.put("a", "a");
+//        map.put("b", "b");
+//        map.put("c", "c");
+//        String str = map.get("a");
+//        map.remove("a");
+//        System.out.println(str);
+//        System.out.println(map);
+
+        List<Integer> list = Arrays.asList(1,2,3,4,5);
+        list.set(0, 6);
+        System.out.println(list);
+//        list.add(9);
+//        System.out.println(list);
+
+        List<Integer> list2 = new ArrayList<>();
+        list2.add(9);
+        System.out.println(list2);
+
     }
     private static void amount(double htPrice) {
         int ht = 10283;
