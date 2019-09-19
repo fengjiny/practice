@@ -2,6 +2,7 @@ package algorithms.leetcode.leetcode_20190902.tree;
 
 import algorithms.leetcode.TreeNode;
 
+import java.util.HashMap;
 import java.util.Stack;
 
 public class LC_1008_Construct_Binary_Search_Tree_from_Preorder_Traversal {
