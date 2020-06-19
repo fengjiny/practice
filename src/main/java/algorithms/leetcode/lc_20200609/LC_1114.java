@@ -1,5 +1,7 @@
 package algorithms.leetcode.lc_20200609;
 
+import java.util.Date;
+
 public class LC_1114 {
 
     private boolean firstFinished;
@@ -40,5 +42,9 @@ public class LC_1114 {
             // printThird.run() outputs "third". Do not change or remove this line.
             printThird.run();
         }
+    }
+
+    public static void main(String[] args) {
+        System.out.println(new Date().getTime());
     }
 }
