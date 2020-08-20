@@ -15,8 +15,11 @@ public class BitAdd {
     }
 
     public static void main(String[] args) {
-        //11, 1001
-        int a = 3, b = 9;
-        System.out.println(new BitAdd().add(a, b));
+        Integer i1 = new Integer(1);
+        Integer i2 = new Integer(2);
+        Integer i3 = new Integer(1);
+        System.out.println(i1 == i2);
+        System.out.println(i1.intValue() ==  i3);
+
     }
 }
