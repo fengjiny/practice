@@ -6,7 +6,7 @@ package algorithms.leetcode.lc_20200609.jzoffer;
  * 例如，数组 [3,4,5,1,2] 为 [1,2,3,4,5] 的一个旋转，该数组的最小值为1。  
  */
 public class JZ_11 {
-    public int minArray(int[] numbers) {
-
-    }
+//    public int minArray(int[] numbers) {
+//
+//    }
 }
